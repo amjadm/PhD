@@ -3,11 +3,17 @@
 Acronyms
 
 Apache Ant          :   AN
+
 Apache Ant v1.9.9   :   AN199
+
 Apache Ant v1.9.10  :   AN1910
+
 Apache Ant v1.10.0  :   AN110
+
 Apache Ant v1.10.1  :   AN1101
+
 Apache Ant v1.10.2  :   AN1102
+
 
 ArgoUML             :   AU
 ArgoUML v0.28       :   AU28
