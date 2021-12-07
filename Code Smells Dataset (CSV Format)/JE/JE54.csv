@@ -1,0 +1,1132 @@
+﻿Access Of Foreign Data (AOFD);Coupling Between Objects (CBO);Cyclomatic Complexity (CC);Changing Classes (ChC);Changing Methods (CM);Depth Of Inheritance Hierarchy (DIT);Lines Of Code (LOC);Number of Accessor Methods (NAM);Number Of Child Classes (NOCC);Number Of Public Attributes (NOPA);Response For Class (RFC);Tight Class Cohesion (TCC);Weighted Chancging Methods (WCM);Weight Of a Class (WOC);Lack of Cohesion (LCOM);Refused Bequest Smell;Feature Envy Smell;Long Method Smell;Large Class Smell;Data Class Smell;Shotgun Surgery Smell
+1.0;7;2;80;2;1;289;38;1;80;0;103;2;53;97;none;none;none;none;none;none
+0.0;4;2;24;1;1;76;4;1;16;8;30;1;50;86;none;none;none;none;none;none
+0.0;2;1;8;1;0;37;5;1;8;0;9;0;38;80;none;none;none;none;none;none
+1.0;13;8;48;0;0;735;0;1;56;0;134;4;117;95;none;none;none;none;none;none
+0.0;0;2;4;0;1;22;0;1;4;0;16;0;100;60;none;none;none;none;none;none
+0.0;0;2;4;0;1;32;0;1;4;0;16;0;100;60;none;none;none;none;none;none
+1.0;22;34;0;0;1;401;0;1;15;0;116;17;15;78;none;none;none;none;none;Shotgun Surgery
+0.0;3;2;16;2;1;59;6;1;16;0;30;1;63;87;none;none;none;none;none;none
+1.0;9;11;4;1;0;255;0;3;6;0;40;1;150;65;none;none;none;none;none;none
+0.0;0;1;8;1;0;45;4;1;8;0;9;1;50;83;none;none;none;none;none;none
+0.0;0;1;13;1;0;35;1;1;7;0;8;0;46;85;none;none;none;none;none;none
+0.0;0;_;11;3;0;13;0;1;0;0;0;0;0;0;none;none;none;none;none;none
+1.0;3;2;22;2;1;120;0;1;20;0;50;1;91;81;none;none;none;none;none;none
+2.0;3;5;10;1;3;94;0;1;6;0;42;1;60;74;none;none;none;none;none;none
+0.0;0;3;6;1;1;75;0;1;6;0;26;3;100;0;none;none;none;none;none;none
+0.0;2;1;3;0;0;47;0;1;3;0;4;0;100;60;none;none;none;none;none;none
+0.0;3;1;5;0;0;241;0;1;6;0;10;0;120;79;none;none;none;none;none;none
+0.0;2;1;4;0;1;84;0;1;2;0;14;0;50;83;none;none;none;none;none;none
+0.0;0;_;11;2;0;68;0;1;0;0;0;0;0;0;none;none;none;none;none;none
+2.0;3;23;1;0;2;780;0;1;29;0;56;1;2900;89;none;none;none;none;none;Shotgun Surgery
+3.0;4;60;4;0;2;1595;0;2;32;0;57;1;800;92;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;0;0;1;6;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+0.0;0;2;0;0;1;92;0;1;3;0;14;0;3;50;none;none;none;none;none;none
+1.0;10;10;0;0;1;95;0;1;1;0;40;7;1;50;none;none;none;none;none;Shotgun Surgery
+1.0;1;1;5;0;1;21;0;1;5;0;22;1;100;0;none;none;none;none;none;none
+2.0;19;6;4;5;1;112;0;1;6;0;51;14;150;64;none;none;none;none;none;none
+1.0;15;8;1;0;2;99;0;1;2;0;87;5;200;22;Refused Bequest;none;none;none;none;none
+0.0;0;1;0;0;4;14;0;1;0;0;24;0;0;0;none;none;none;none;none;none
+1.0;7;9;0;0;1;58;0;1;0;0;31;5;0;0;none;none;none;none;none;none
+0.0;9;6;4;4;1;289;0;10;4;0;52;2;100;66;none;none;none;none;none;none
+0.0;0;1;1;0;2;7;0;1;1;0;16;0;100;0;none;none;none;none;none;none
+0.0;0;1;2;0;3;11;0;1;2;0;22;0;100;0;none;none;none;none;none;none
+0.0;3;1;8;5;1;46;4;1;8;0;20;0;50;72;none;none;none;none;none;none
+0.0;8;2;5;1;2;130;0;3;5;0;45;5;100;0;none;none;none;none;none;none
+0.0;7;2;2;0;2;26;0;1;2;0;30;3;100;0;none;none;none;none;none;none
+1.0;8;2;2;0;2;59;0;1;2;0;34;4;100;0;none;none;none;none;none;none
+0.0;0;1;1;0;2;7;0;1;1;0;17;0;100;0;none;none;none;none;none;none
+0.0;2;3;2;0;2;51;0;2;2;0;27;1;100;0;none;none;none;none;none;none
+1.0;4;3;2;0;2;35;0;1;2;0;29;3;100;0;none;none;none;none;none;none
+0.0;0;1;5;2;0;8;0;1;5;0;5;0;100;0;none;none;none;none;none;none
+1.0;12;3;2;1;1;63;0;1;2;0;35;7;100;0;none;none;none;none;none;none
+5.0;29;5;0;0;6;632;0;10;2;0;591;11;2;40;Refused Bequest;none;none;none;none;none
+0.0;3;5;1;0;1;24;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+5.0;23;3;0;0;5;98;0;2;2;0;487;4;2;55;none;none;none;none;none;none
+1.0;8;2;1;0;1;21;0;1;1;0;25;3;100;0;none;none;none;none;none;none
+2.0;12;5;2;1;2;116;0;1;6;0;43;4;300;61;none;none;none;none;none;none
+5.0;14;3;1;0;5;64;0;1;3;0;478;5;300;50;none;none;none;none;none;none
+3.0;10;1;6;1;5;80;0;1;6;0;483;6;100;85;none;none;none;none;none;none
+2.0;6;1;0;0;5;24;0;1;0;0;462;3;0;0;none;none;none;none;none;none
+0.0;1;1;1;0;2;7;0;1;1;0;33;1;100;0;none;none;none;none;none;none
+2.0;6;2;5;1;1;68;0;1;5;0;30;3;100;0;none;none;none;none;none;none
+1.0;4;7;13;2;1;300;0;1;15;0;34;2;115;71;none;none;none;none;none;none
+2.0;4;8;29;3;1;353;0;1;30;0;71;3;103;56;none;none;none;none;Data Class;none
+0.0;1;6;44;2;1;195;0;1;8;14;31;2;18;92;none;none;Long Methodt;none;none;none
+2.0;7;13;15;1;3;308;0;3;15;0;66;3;100;83;Refused Bequest;none;none;none;none;none
+0.0;3;1;3;0;1;22;0;1;3;0;20;0;100;0;none;none;none;none;none;none
+0.0;3;1;3;1;0;12;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+2.0;5;6;10;0;3;168;0;1;11;0;49;2;110;75;Refused Bequest;none;none;none;none;none
+2.0;29;14;10;3;1;394;0;2;16;0;105;14;160;75;none;none;none;none;none;Shotgun Surgery
+0.0;1;13;0;0;1;65;0;1;0;0;22;2;0;0;none;none;none;none;none;none
+3.0;11;5;13;21;5;180;1;1;16;0;485;3;115;77;none;Feature Envy;none;none;none;none
+0.0;2;1;2;6;2;13;0;1;2;0;20;0;100;0;none;none;none;none;none;none
+1.0;7;7;6;0;2;122;0;1;9;0;71;2;150;70;none;none;none;none;none;none
+2.0;12;4;9;8;2;103;3;1;12;0;57;4;100;76;none;Feature Envy;none;none;none;none
+0.0;6;5;3;1;1;49;0;1;3;0;29;4;100;50;none;none;none;none;none;none
+2.0;23;6;13;13;1;251;0;2;15;0;80;13;115;50;none;none;none;none;none;none
+0.0;9;2;0;0;2;58;0;1;4;0;41;2;4;0;none;none;none;none;none;none
+2.0;10;3;6;0;3;118;3;2;6;0;49;5;50;68;none;none;none;none;none;none
+0.0;3;3;2;1;1;30;1;1;2;0;16;1;50;22;none;none;none;none;none;none
+4.0;17;7;7;2;1;174;1;1;15;0;46;6;200;76;none;none;none;none;none;none
+9.0;54;19;72;52;2;1338;10;1;79;0;339;28;96;96;none;none;none;Large Class;none;Shotgun Surgery
+3.0;29;8;6;3;1;346;0;3;12;0;85;16;200;70;none;none;none;none;Data Class;Shotgun Surgery
+0.0;2;1;7;3;1;24;0;1;2;5;14;1;29;46;none;none;none;none;none;none
+1.0;5;8;4;1;2;64;0;1;3;1;62;3;75;61;none;none;none;none;none;none
+0.0;1;3;23;22;1;42;0;1;1;22;14;1;4;100;none;none;Long Methodt;none;none;none
+0.0;1;1;1;2;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;1;1;3;13;1;28;1;1;3;0;17;2;67;19;none;Feature Envy;none;none;none;none
+1.0;3;2;1;0;2;15;0;1;1;0;30;2;100;50;none;none;none;none;none;none
+0.0;3;2;9;8;2;69;0;2;9;0;31;1;100;0;none;none;none;none;none;none
+1.0;6;2;1;0;1;21;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+3.0;14;7;6;40;1;232;0;4;8;0;57;11;133;66;none;none;none;none;none;none
+0.0;2;1;0;0;1;14;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+3.0;9;7;5;1;3;92;0;1;5;0;98;5;100;46;none;none;none;none;none;none
+2.0;4;1;1;0;1;21;0;1;1;0;18;3;100;0;none;none;none;none;none;none
+8.0;57;26;29;19;5;836;5;4;33;0;686;23;97;79;none;none;none;none;none;Shotgun Surgery
+0.0;1;_;6;1;1;9;0;1;0;6;11;0;0;0;none;none;none;none;none;none
+1.0;10;6;6;1;2;65;2;1;6;0;35;8;67;66;none;none;none;none;none;none
+0.0;5;6;3;0;1;45;0;1;3;0;22;3;100;0;none;none;none;none;none;none
+1.0;13;4;15;15;1;194;1;3;19;0;50;6;120;94;none;Feature Envy;none;none;none;none
+1.0;1;1;1;0;2;14;1;1;1;0;27;0;0;0;none;none;none;none;none;none
+1.0;1;1;2;0;2;22;1;1;3;0;29;0;100;25;none;none;none;none;none;none
+3.0;23;13;4;1;2;215;0;1;7;0;106;16;175;70;Refused Bequest;none;none;none;none;none
+12.0;96;8;69;81;1;1222;0;5;76;0;279;34;110;98;none;none;none;none;none;none
+4.0;13;2;3;1;2;77;0;1;5;0;36;5;167;54;none;none;none;none;none;none
+2.0;10;4;0;0;1;92;0;3;0;0;26;5;0;16;none;none;none;none;none;none
+1.0;6;4;2;0;2;37;0;1;2;0;27;5;100;0;none;none;none;none;none;none
+2.0;7;1;1;0;2;20;0;1;1;0;36;4;100;0;none;none;none;none;none;none
+0.0;0;1;1;5;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+3.0;23;7;7;4;2;348;0;1;15;0;101;13;214;79;none;none;none;none;Data Class;none
+0.0;0;1;5;8;1;33;2;1;5;0;16;0;60;41;none;Feature Envy;none;none;none;none
+1.0;11;3;7;9;1;75;0;1;7;0;41;4;100;45;none;none;none;none;none;none
+2.0;20;4;12;12;1;182;0;1;16;0;55;5;133;66;none;Feature Envy;none;none;none;none
+2.0;8;3;6;2;2;117;3;2;6;0;36;2;50;71;Refused Bequest;none;none;none;none;none
+1.0;4;2;0;0;2;23;0;1;3;0;32;1;3;0;none;none;none;none;none;none
+3.0;17;5;2;0;2;150;0;2;2;0;62;9;100;0;none;none;none;none;none;none
+1.0;6;2;6;1;2;54;0;1;5;1;61;3;83;60;none;none;none;none;none;none
+2.0;3;4;5;0;2;80;0;1;5;0;48;2;100;50;none;none;none;none;none;none
+1.0;14;6;2;0;1;125;0;2;2;0;43;11;100;0;none;none;none;none;none;none
+1.0;5;3;4;0;2;37;0;1;4;0;60;3;100;41;none;none;none;none;none;none
+0.0;3;1;1;0;1;7;0;1;1;0;15;1;100;0;none;none;none;none;none;none
+6.0;33;9;23;4;1;700;0;5;26;0;142;13;113;89;none;none;none;none;none;none
+0.0;4;1;3;0;2;24;0;1;3;0;26;1;100;0;none;none;none;none;none;none
+0.0;7;1;6;2;1;40;2;1;6;0;25;4;67;60;none;none;none;none;none;none
+0.0;4;2;5;1;3;50;2;1;5;0;38;2;60;66;none;none;none;none;none;none
+1.0;10;4;5;6;1;121;0;1;8;0;35;6;160;74;none;none;none;none;none;none
+0.0;3;2;2;6;1;41;1;1;6;0;19;1;250;53;none;Feature Envy;none;none;none;none
+5.0;40;17;44;60;1;963;0;2;49;0;194;24;111;98;none;none;none;Large Class;none;Shotgun Surgery
+1.0;5;13;0;0;1;83;0;1;2;0;40;5;2;50;none;none;none;none;none;none
+3.0;17;11;23;19;1;284;4;1;26;0;72;9;96;89;none;Feature Envy;none;none;none;none
+2.0;7;6;2;0;2;50;0;1;3;0;59;6;150;50;none;none;none;none;none;none
+3.0;10;9;15;24;1;192;0;1;15;0;48;11;100;87;none;Feature Envy;none;none;none;none
+0.0;5;7;10;7;1;106;2;1;11;0;37;2;90;71;none;none;none;none;none;none
+0.0;1;1;4;4;0;7;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+3.0;17;15;6;4;1;257;0;2;6;0;75;11;100;76;none;none;none;none;none;Shotgun Surgery
+2.0;12;10;5;1;2;106;0;1;6;0;80;7;120;67;none;none;none;none;none;none
+5.0;64;25;35;14;1;1476;11;3;46;0;245;30;100;90;none;none;none;Large Class;none;Shotgun Surgery
+1.0;14;6;21;4;1;241;0;1;13;18;49;4;62;85;none;none;none;none;none;none
+0.0;0;_;0;0;1;8;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+0.0;11;5;2;1;1;170;0;1;20;0;48;3;1000;76;none;none;none;none;none;none
+0.0;0;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+3.0;24;8;21;11;1;520;0;4;28;0;104;11;133;89;none;none;none;none;none;none
+2.0;7;2;4;0;1;43;0;1;4;0;26;3;100;0;none;none;none;none;none;none
+2.0;6;3;4;0;1;41;1;1;4;0;23;1;75;0;none;none;none;none;none;none
+0.0;1;1;4;6;0;8;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+0.0;0;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+1.0;11;3;6;1;2;86;0;1;9;0;74;3;150;75;none;none;none;none;none;none
+3.0;18;4;9;16;1;176;0;3;10;0;54;6;111;30;none;Feature Envy;none;none;none;none
+0.0;3;4;2;0;1;55;0;1;3;0;18;1;150;56;none;none;none;none;none;none
+0.0;5;1;3;1;1;17;0;1;2;0;19;2;67;0;none;none;none;none;none;none
+2.0;12;10;1;0;1;46;0;1;2;0;29;8;200;0;none;none;none;none;none;none
+0.0;8;1;5;4;1;75;0;2;5;0;38;2;100;42;none;Feature Envy;none;none;none;none
+1.0;6;1;3;5;3;38;0;1;3;0;45;1;100;60;none;none;none;none;none;none
+1.0;8;12;4;1;1;226;0;3;4;0;57;2;100;55;none;none;none;none;none;Shotgun Surgery
+0.0;4;5;7;1;1;75;2;1;7;0;30;1;71;69;none;none;none;none;none;none
+0.0;0;3;5;1;1;37;0;1;5;0;21;0;100;60;none;none;none;none;none;none
+2.0;9;24;36;16;1;642;0;1;29;0;82;3;81;93;none;none;none;none;none;Shotgun Surgery
+17.0;103;21;88;69;6;1423;15;8;87;0;768;43;82;96;none;none;none;none;none;Shotgun Surgery
+0.0;4;2;1;0;1;9;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+0.0;5;4;1;0;2;18;0;1;1;0;20;3;100;0;none;none;none;none;none;none
+0.0;4;1;1;0;5;8;0;1;1;0;36;2;100;0;none;none;none;none;none;none
+0.0;3;2;2;0;1;11;0;1;2;0;17;2;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;2;13;0;1;1;0;19;1;100;0;none;none;none;none;none;none
+1.0;3;2;9;5;1;32;0;1;0;9;12;1;0;51;none;none;none;none;none;none
+1.0;6;4;2;0;2;20;0;1;2;0;39;2;100;0;none;none;none;none;none;none
+20.0;185;62;107;202;1;3057;0;5;147;0;620;89;137;96;none;none;none;none;none;Shotgun Surgery
+2.0;5;1;1;0;1;19;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+0.0;1;1;0;0;2;13;0;1;1;0;25;0;1;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;8;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+1.0;10;7;1;0;3;39;0;1;1;0;93;7;100;0;none;none;none;none;none;none
+1.0;5;2;0;0;2;57;0;2;0;0;34;1;0;0;Refused Bequest;none;none;none;none;none
+1.0;3;2;6;0;1;37;0;1;6;0;25;2;100;71;none;none;none;none;none;none
+3.0;22;20;1;1;5;245;0;2;6;0;563;11;600;71;Refused Bequest;none;none;none;none;Shotgun Surgery
+1.0;7;5;1;0;1;26;0;1;1;0;21;5;100;0;none;none;none;none;none;none
+0.0;2;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+9.0;48;18;14;3;5;578;3;7;15;0;600;14;86;75;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;0;0;1;1;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+4.0;15;18;1;0;5;115;0;1;2;0;554;12;200;0;none;none;none;none;none;none
+3.0;10;6;1;0;6;42;0;1;1;0;507;4;100;0;none;none;none;none;none;none
+1.0;11;6;2;0;2;55;0;1;2;0;45;8;100;0;none;none;none;none;none;none
+1.0;9;5;1;0;2;28;0;1;1;0;29;4;100;0;none;none;none;none;none;none
+4.0;18;11;3;0;2;99;0;1;3;0;56;12;100;0;none;none;none;none;none;none
+1.0;7;2;2;0;3;48;0;1;2;0;40;5;100;0;none;none;none;none;none;none
+5.0;19;9;10;9;6;199;0;2;6;6;533;7;60;82;none;none;none;Large Class;none;none
+0.0;4;2;4;1;1;54;0;1;4;0;25;3;100;68;none;none;none;none;none;none
+2.0;8;1;2;0;3;54;0;1;2;0;40;5;100;33;none;none;none;none;none;none
+1.0;7;2;2;0;3;48;0;1;2;0;40;5;100;0;none;none;none;none;none;none
+2.0;9;5;2;0;3;71;0;1;2;0;43;6;100;0;none;none;none;none;none;none
+26.0;114;23;59;22;5;1534;7;14;60;0;783;49;90;94;none;none;none;none;none;Shotgun Surgery
+2.0;11;6;2;1;1;65;0;1;3;0;33;8;150;33;none;none;none;none;none;none
+1.0;12;2;1;0;3;39;0;1;1;0;30;6;100;0;none;none;none;none;none;none
+0.0;4;1;0;0;8;15;0;1;1;0;565;3;1;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;8;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+1.0;2;1;3;0;1;19;0;1;3;0;19;1;100;0;none;none;none;none;none;none
+1.0;14;8;0;0;8;108;0;2;2;0;588;7;2;0;none;none;none;none;none;none
+2.0;7;8;1;0;1;51;0;1;1;0;26;6;100;0;none;none;none;none;none;none
+1.0;4;5;3;1;7;68;0;1;4;0;591;2;133;60;none;none;none;none;none;none
+2.0;11;2;3;0;7;51;0;3;4;0;569;4;133;100;none;none;none;none;none;none
+0.0;2;1;1;0;2;7;0;1;1;0;30;1;100;0;none;none;none;none;none;none
+0.0;3;2;1;0;2;15;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+0.0;5;2;0;0;8;26;0;1;3;0;568;3;3;0;none;none;none;none;none;none
+0.0;1;1;1;0;6;14;0;1;1;0;498;0;100;0;none;none;none;none;none;none
+10.0;45;23;11;3;5;508;0;6;14;0;748;19;127;87;none;none;none;none;none;Shotgun Surgery
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;6;1;5;0;1;13;0;1;5;0;26;3;100;0;none;none;none;none;none;none
+1.0;4;3;1;0;6;20;0;1;1;0;498;1;100;0;none;none;none;none;none;none
+3.0;12;3;1;0;3;16;0;1;1;0;39;7;100;0;none;none;none;none;none;none
+1.0;9;4;1;0;3;22;0;1;1;0;43;8;100;0;none;none;none;none;none;none
+4.0;13;10;16;2;2;288;2;4;19;0;89;8;106;70;Refused Bequest;none;none;none;none;none
+0.0;2;1;0;0;1;19;0;1;0;0;13;1;0;60;none;none;none;none;none;none
+2.0;5;10;1;1;1;52;0;1;1;0;37;4;100;0;none;none;none;none;none;none
+0.0;0;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+9.0;46;14;5;2;7;469;1;5;10;0;555;18;180;83;none;none;none;none;none;Shotgun Surgery
+0.0;3;3;1;0;1;10;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+2.0;10;8;2;0;1;77;0;1;2;0;30;7;100;0;none;none;none;none;none;none
+2.0;6;2;1;0;3;49;0;1;1;0;35;2;100;0;none;none;none;none;none;none
+2.0;3;1;6;0;1;43;0;1;6;0;30;1;100;33;none;none;none;none;none;none
+9.0;17;12;2;0;7;206;0;1;4;0;618;11;200;0;none;none;none;none;none;Shotgun Surgery
+4.0;21;5;1;0;2;190;0;1;9;0;80;12;900;90;Refused Bequest;none;none;none;none;none
+0.0;8;1;7;11;2;55;0;1;7;1;51;3;100;75;none;Feature Envy;none;none;none;none
+1.0;4;3;1;4;2;17;0;1;1;0;37;0;100;0;Refused Bequest;none;none;none;none;none
+2.0;7;7;8;2;2;66;0;1;4;4;46;4;50;65;Refused Bequest;none;none;none;none;none
+2.0;8;6;2;2;2;74;0;1;3;0;48;5;150;0;Refused Bequest;none;none;none;none;none
+2.0;8;7;2;1;2;107;0;1;2;1;46;4;100;66;Refused Bequest;none;none;none;none;Shotgun Surgery
+2.0;7;18;2;1;2;89;0;1;3;1;46;4;150;75;Refused Bequest;none;none;none;none;Shotgun Surgery
+1.0;7;11;3;4;2;78;0;2;3;1;42;0;100;50;Refused Bequest;none;none;none;none;none
+0.0;1;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+1.0;7;1;1;0;2;18;0;1;1;0;40;3;100;0;Refused Bequest;none;none;none;none;none
+2.0;9;5;2;0;2;45;0;1;2;0;44;4;100;66;Refused Bequest;none;none;none;none;none
+3.0;12;12;1;0;2;77;0;1;1;0;50;5;100;50;Refused Bequest;none;none;none;none;Shotgun Surgery
+3.0;8;14;4;1;2;67;0;1;1;3;40;1;25;56;Refused Bequest;none;none;none;none;none
+0.0;0;1;1;1;2;7;0;1;0;1;35;0;0;100;Refused Bequest;none;none;none;none;none
+0.0;4;2;5;3;2;25;0;1;2;2;39;1;40;77;Refused Bequest;none;none;none;none;none
+1.0;4;3;3;4;2;56;0;1;4;0;41;1;133;65;Refused Bequest;none;none;none;none;none
+1.0;4;4;2;3;2;37;0;1;2;0;40;2;100;0;Refused Bequest;none;none;none;none;none
+2.0;7;5;4;1;2;41;0;1;1;3;44;3;25;50;Refused Bequest;none;none;none;none;none
+0.0;5;6;3;1;2;80;0;1;4;1;53;2;133;40;Refused Bequest;none;none;none;none;none
+2.0;12;6;4;3;2;93;0;1;7;2;53;3;175;73;Refused Bequest;none;none;none;none;none
+3.0;12;4;1;0;2;42;0;1;3;0;50;7;300;0;Refused Bequest;none;none;none;none;none
+2.0;6;1;1;0;2;15;0;1;1;0;39;1;100;0;Refused Bequest;none;none;none;none;none
+0.0;7;8;2;2;2;53;0;1;3;0;44;4;150;0;Refused Bequest;none;none;none;none;none
+3.0;18;8;7;2;2;182;0;1;5;2;70;13;71;85;Refused Bequest;none;none;none;none;none
+0.0;0;1;2;3;2;6;1;1;1;1;36;0;0;50;Refused Bequest;none;none;none;none;none
+1.0;5;2;2;1;2;15;0;1;1;1;37;0;50;50;Refused Bequest;none;none;none;none;none
+1.0;4;2;3;3;2;25;0;1;3;1;40;1;100;50;Refused Bequest;none;none;none;none;none
+1.0;4;2;1;0;2;15;0;1;1;0;36;0;100;0;Refused Bequest;none;none;none;none;none
+0.0;3;2;1;1;2;12;0;1;1;0;36;0;100;50;Refused Bequest;none;none;none;none;none
+5.0;7;10;1;0;2;75;0;1;2;0;42;3;200;0;Refused Bequest;none;none;none;none;none
+0.0;4;2;1;0;2;15;0;1;1;0;37;1;100;0;Refused Bequest;none;none;none;none;none
+0.0;4;2;1;0;2;13;0;1;1;0;38;0;100;0;Refused Bequest;none;none;none;none;none
+3.0;14;13;1;0;2;95;0;1;1;0;56;5;100;0;Refused Bequest;none;none;none;none;Shotgun Surgery
+11.0;8;11;7;10;2;110;2;1;8;0;56;5;86;72;none;Feature Envy;none;none;none;none
+2.0;9;2;3;2;2;55;0;1;5;1;47;5;167;83;Refused Bequest;none;none;none;none;none
+5.0;8;10;3;1;2;79;0;1;4;2;62;4;133;70;Refused Bequest;none;none;none;none;none
+1.0;6;4;3;3;2;27;0;1;2;1;41;1;67;66;Refused Bequest;none;none;none;none;none
+3.0;6;7;1;0;2;52;0;1;1;0;37;1;100;50;Refused Bequest;none;none;none;none;none
+0.0;5;2;6;1;2;53;0;1;9;0;87;0;150;0;none;none;none;none;none;none
+2.0;19;9;19;10;1;290;0;3;32;0;76;6;168;91;none;none;none;none;none;none
+0.0;0;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;0;9;2;0;1;48;0;1;2;0;15;0;100;16;none;none;none;none;none;none
+0.0;0;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+8.0;21;16;9;6;1;216;5;1;11;0;50;6;67;81;none;none;none;Large Class;none;Shotgun Surgery
+1.0;3;2;11;19;1;60;0;1;11;0;35;0;100;30;none;Feature Envy;none;none;none;none
+0.0;2;3;5;7;1;51;0;2;5;0;23;1;100;70;none;none;none;none;none;none
+0.0;0;1;0;0;4;4;0;1;0;0;26;0;0;0;none;none;none;none;none;none
+0.0;11;2;4;3;1;30;0;1;4;0;18;1;100;0;none;none;none;none;none;none
+6.0;33;5;5;0;2;224;0;2;7;0;75;14;140;0;none;none;none;none;none;none
+2.0;4;5;7;2;1;38;0;1;2;3;15;1;29;76;none;none;none;none;none;none
+9.0;35;14;5;1;1;701;0;2;21;0;129;20;420;89;none;none;none;Large Class;none;Shotgun Surgery
+0.0;1;1;11;1;1;22;0;1;10;2;29;8;91;91;none;none;none;none;none;none
+0.0;0;1;2;3;1;13;1;1;2;0;14;0;50;0;none;none;none;none;none;none
+0.0;0;1;0;0;4;3;0;1;0;0;26;0;0;0;none;none;none;none;none;none
+0.0;5;8;6;4;1;89;0;2;6;0;35;4;100;83;none;none;none;none;none;none
+1.0;3;8;2;0;1;43;0;1;3;0;26;4;150;25;none;none;none;none;none;none
+2.0;3;5;3;0;3;42;0;1;3;0;37;1;100;75;none;none;none;none;none;none
+0.0;2;1;6;1;0;8;0;1;6;0;6;0;100;0;none;none;none;none;none;none
+0.0;9;2;4;1;2;47;2;1;4;0;28;0;50;53;none;none;none;none;none;none
+1.0;3;5;8;5;3;87;1;1;11;0;43;1;125;63;none;Feature Envy;none;none;none;none
+0.0;13;3;9;0;2;105;1;1;13;0;104;3;133;46;none;none;none;none;none;none
+7.0;35;24;45;28;1;624;6;1;52;3;155;18;102;93;none;none;none;Large Class;none;Shotgun Surgery
+0.0;0;1;0;0;4;7;0;1;0;0;24;0;0;0;none;Feature Envy;none;none;none;none
+0.0;3;3;0;0;1;81;0;1;11;0;34;2;11;48;none;none;none;none;none;none
+0.0;38;3;84;0;2;155;0;1;85;0;194;1;101;0;none;none;none;none;none;none
+0.0;4;13;21;2;1;446;0;1;25;1;44;2;119;80;none;none;none;none;none;none
+0.0;11;10;3;8;1;156;0;1;3;0;41;7;100;59;none;Feature Envy;none;none;none;none
+1.0;1;8;6;7;1;66;0;1;7;0;22;0;117;78;none;Feature Envy;none;none;none;none
+4.0;21;32;9;6;1;536;1;1;18;1;82;10;189;81;none;Feature Envy;none;none;none;Shotgun Surgery
+0.0;1;1;2;0;0;8;0;2;2;0;2;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+6.0;30;12;47;31;1;804;1;2;71;0;158;10;149;95;none;none;none;none;none;none
+0.0;0;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+0.0;0;1;7;1;0;10;0;1;7;0;7;0;100;0;none;none;none;none;none;none
+1.0;3;11;10;1;4;148;1;1;8;3;52;1;70;72;none;none;none;none;none;none
+36.0;53;18;89;1;1;5317;0;2;348;4;454;4;391;91;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;0;0;3;1;0;1;0;0;24;0;0;0;none;none;none;none;none;none
+0.0;0;_;131;10;0;268;0;1;0;0;0;0;0;0;none;Feature Envy;none;none;none;none
+4.0;5;144;8;1;1;2098;0;1;48;1;71;1;600;90;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;39;3;0;81;0;1;0;0;0;0;0;0;none;none;none;none;none;none
+12.0;7;22;22;37;1;715;0;2;35;0;78;5;159;84;none;none;none;Large Class;none;none
+0.0;0;1;2;1;1;6;0;1;0;0;11;0;0;100;none;none;none;none;none;none
+5.0;24;7;14;9;1;593;0;1;40;0;126;21;286;0;none;none;none;Large Class;none;none
+0.0;0;1;0;0;3;5;0;1;0;0;24;0;0;0;none;none;none;none;none;none
+0.0;1;2;3;2;1;25;0;1;3;0;17;1;100;50;none;none;none;none;none;none
+2.0;16;3;2;0;1;125;0;1;6;0;55;6;300;0;none;none;none;none;none;none
+0.0;1;1;3;6;1;10;0;1;0;3;11;0;0;0;none;none;none;none;none;none
+3.0;8;4;18;39;1;105;1;1;17;1;44;3;89;88;none;Feature Envy;none;none;none;none
+0.0;3;5;5;6;1;57;0;1;5;0;34;1;100;0;none;none;none;none;none;none
+1.0;7;2;8;7;4;71;1;1;8;0;50;2;88;65;none;Feature Envy;none;none;none;none
+2.0;13;12;8;9;1;128;1;1;10;0;42;6;113;59;none;none;none;none;none;none
+0.0;0;2;10;4;1;18;1;1;2;8;13;0;10;93;none;none;Long Methodt;none;none;none
+0.0;0;4;1;1;3;71;0;1;3;0;36;1;300;96;none;none;none;none;none;none
+10.0;8;26;2;11;1;253;0;1;11;0;41;4;550;91;none;none;none;Large Class;none;Shotgun Surgery
+1.0;4;3;2;20;3;23;0;1;2;0;27;0;100;0;none;Feature Envy;none;none;none;none
+0.0;4;2;2;0;4;20;0;1;1;1;28;0;50;33;none;none;none;none;none;none
+1.0;5;6;7;2;1;73;4;1;8;0;25;2;57;76;none;none;none;none;none;none
+1.0;6;5;3;0;2;84;0;2;3;0;48;1;100;75;none;none;none;none;none;none
+1.0;11;5;2;1;1;50;0;1;2;0;31;8;100;0;none;none;none;none;none;none
+1.0;4;5;2;1;4;63;0;1;4;0;69;2;200;71;none;none;none;none;none;none
+2.0;31;6;27;2;1;525;0;8;47;0;147;14;174;93;none;none;none;none;none;none
+0.0;2;1;2;1;1;9;1;1;2;0;15;0;50;0;none;none;none;none;none;none
+0.0;0;1;0;0;1;4;0;1;1;0;12;0;1;0;none;none;none;none;none;none
+1.0;5;2;4;1;2;27;0;1;4;0;25;1;100;0;none;none;none;none;none;none
+0.0;0;1;1;0;2;7;0;1;1;0;13;0;100;0;none;none;none;none;none;none
+0.0;1;1;3;0;2;8;0;1;3;0;16;0;100;0;none;none;none;none;none;none
+0.0;0;1;4;1;0;7;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+0.0;2;3;0;0;3;18;0;1;1;0;80;1;1;0;none;none;none;none;none;none
+3.0;28;16;17;1;2;258;0;1;21;0;119;12;124;82;none;none;none;none;none;none
+0.0;0;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;3;2;2;0;5;33;0;2;2;0;68;1;100;0;none;none;none;none;none;none
+0.0;1;1;2;2;3;9;0;1;2;0;78;0;100;0;none;none;none;none;none;none
+0.0;2;4;2;0;1;25;0;1;3;0;21;1;150;25;none;none;none;none;none;none
+0.0;4;2;4;0;2;27;0;1;4;0;25;1;100;0;none;none;none;none;none;none
+2.0;8;10;3;0;1;66;0;1;3;0;38;2;100;66;none;none;none;none;none;none
+0.0;0;9;8;3;1;143;0;1;9;0;25;2;113;9;none;none;none;none;none;none
+0.0;1;1;5;0;0;20;0;1;5;0;5;0;100;0;none;none;none;none;none;none
+4.0;5;12;6;1;1;397;0;1;21;0;66;5;350;93;none;none;none;none;none;none
+0.0;1;1;17;1;0;24;0;1;17;0;17;0;100;0;none;none;none;none;none;none
+7.0;6;41;17;0;1;967;0;1;30;0;79;2;176;85;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;179;5;0;181;0;1;0;0;0;0;0;0;none;none;none;none;none;none
+0.0;1;_;0;0;1;6;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+1.0;1;3;0;0;1;97;0;1;6;0;19;0;6;60;none;none;none;none;none;none
+4.0;4;8;0;0;1;102;0;1;3;0;18;1;3;75;none;none;none;none;none;none
+9.0;2;14;38;1;1;301;1;1;21;0;48;1;53;88;none;none;none;Large Class;none;none
+0.0;1;2;1;0;2;11;0;1;1;0;16;1;100;0;none;none;none;none;none;none
+0.0;1;1;8;0;1;18;0;1;8;0;27;0;100;0;none;none;none;none;none;none
+0.0;1;1;8;1;0;15;0;1;8;0;8;0;100;0;none;none;none;none;none;none
+0.0;0;5;4;0;1;73;0;1;6;0;28;0;150;43;none;none;none;none;none;none
+0.0;1;1;4;1;0;7;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+1.0;2;4;9;1;1;143;1;1;14;0;34;1;144;51;none;none;none;none;none;none
+0.0;4;1;3;1;1;16;0;1;3;0;23;1;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;2;12;0;1;1;0;20;0;100;0;none;none;none;none;none;none
+1.0;2;7;1;0;2;49;0;1;1;0;22;0;100;0;none;none;none;none;none;none
+0.0;4;2;9;7;1;42;2;1;8;1;21;0;67;68;none;Feature Envy;none;none;none;none
+0.0;1;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+1.0;4;6;2;0;2;64;0;1;3;0;29;2;150;0;none;none;none;none;none;none
+10.0;48;15;109;87;1;1777;8;3;126;2;302;22;108;96;none;none;none;none;none;Shotgun Surgery
+0.0;1;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+0.0;0;2;1;0;1;16;0;1;1;0;13;0;100;25;none;none;none;none;none;none
+0.0;2;6;11;4;1;167;0;1;17;0;42;3;155;61;none;none;none;none;none;none
+2.0;4;14;14;1;1;246;3;1;16;0;32;2;93;70;none;none;none;none;none;none
+0.0;9;3;3;1;1;121;0;3;3;0;34;3;100;50;none;none;none;none;none;none
+2.0;4;3;2;0;1;53;0;1;7;0;23;3;350;50;none;none;none;none;none;none
+1.0;1;1;1;0;1;21;0;1;2;0;16;0;200;0;none;none;none;none;none;none
+5.0;10;7;13;2;1;470;1;7;19;0;61;2;138;80;none;none;none;none;none;none
+1.0;2;7;3;1;2;79;0;1;5;0;20;0;167;30;none;none;none;none;none;none
+1.0;3;2;0;0;3;41;0;1;3;0;23;0;3;0;none;none;none;none;none;none
+0.0;2;1;0;0;1;6;0;1;2;0;13;0;2;0;none;none;none;none;none;none
+1.0;4;2;0;0;2;27;0;1;2;0;20;1;2;0;none;none;none;none;none;none
+1.0;4;2;0;0;2;28;0;1;2;0;20;1;2;0;none;none;none;none;none;none
+1.0;4;2;0;0;2;31;0;1;2;0;20;1;2;0;none;none;none;none;none;none
+1.0;13;3;1;0;4;66;0;1;2;0;54;7;200;0;none;none;none;none;none;none
+4.0;23;22;9;7;3;281;0;1;9;0;82;14;100;80;none;Feature Envy;none;none;none;Shotgun Surgery
+1.0;14;3;1;0;4;56;0;1;1;0;55;10;100;0;none;none;none;none;none;none
+3.0;32;12;1;0;4;260;0;1;6;0;102;17;600;0;none;none;none;none;none;Shotgun Surgery
+3.0;16;13;1;0;4;149;0;1;3;0;76;9;300;0;none;none;none;none;none;Shotgun Surgery
+0.0;0;_;0;0;2;3;0;1;0;0;30;0;0;0;Refused Bequest;none;none;none;none;none
+2.0;17;4;2;0;2;80;0;1;2;0;53;8;100;33;none;none;none;none;none;none
+1.0;14;10;14;6;1;235;1;3;17;0;60;6;114;67;none;none;none;none;none;none
+0.0;2;2;1;0;1;12;0;1;1;0;33;1;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;32;1;100;0;none;none;none;none;none;none
+0.0;1;1;4;0;1;15;0;1;4;0;19;0;100;0;none;none;none;none;none;none
+0.0;1;1;4;1;0;7;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+4.0;20;5;10;6;1;270;0;1;14;0;65;12;140;70;none;none;none;none;none;none
+1.0;1;_;2;3;1;5;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+1.0;2;1;3;1;1;23;2;1;3;0;15;1;33;37;none;none;none;none;none;none
+0.0;5;2;3;0;1;25;1;1;3;0;23;1;67;37;none;none;none;none;none;none
+0.0;2;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+1.0;9;8;5;1;1;48;0;1;3;0;33;3;60;58;none;none;none;none;none;none
+0.0;5;1;2;0;1;11;0;1;2;0;19;2;100;0;none;none;none;none;none;none
+1.0;5;2;3;0;1;25;0;1;3;0;20;0;100;58;none;none;none;none;none;none
+0.0;0;1;2;0;1;11;0;1;2;0;16;0;100;0;none;none;none;none;none;none
+0.0;9;4;3;2;1;36;0;1;3;0;23;3;100;50;none;none;none;none;none;none
+2.0;12;6;7;2;5;165;3;1;7;0;479;2;57;50;Refused Bequest;none;none;none;none;none
+2.0;19;7;1;0;6;249;0;2;2;0;526;6;200;0;none;none;none;Large Class;none;none
+7.0;28;7;6;1;4;199;0;1;8;0;502;12;133;79;none;none;none;none;none;none
+4.0;24;11;0;0;6;219;0;5;7;0;528;5;7;71;none;none;none;none;none;Shotgun Surgery
+1.0;13;11;1;0;1;79;0;1;1;0;34;10;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;8;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;14;1;1;1;0;13;1;0;25;none;none;none;none;none;none
+1.0;2;1;1;0;1;8;0;1;1;0;31;1;100;0;none;none;none;none;none;none
+4.0;32;14;2;1;5;423;1;8;5;0;581;16;200;64;Refused Bequest;none;none;none;none;Shotgun Surgery
+0.0;5;2;1;0;1;10;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+4.0;12;12;3;0;7;116;0;1;4;0;602;12;133;60;none;none;none;none;none;none
+4.0;16;7;0;0;5;96;0;4;1;0;448;3;1;0;none;none;none;none;none;none
+0.0;1;1;1;1;5;12;0;1;1;0;526;0;100;0;none;none;none;none;none;none
+1.0;7;7;2;0;2;37;0;1;2;0;27;5;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;2;8;0;1;1;0;29;1;100;0;none;none;none;none;none;none
+0.0;2;2;3;0;1;14;0;1;3;0;18;1;100;0;none;none;none;none;none;none
+2.0;18;5;0;0;6;86;0;3;0;0;485;4;0;0;Refused Bequest;none;none;none;none;none
+0.0;12;5;1;0;1;31;0;1;1;0;26;10;100;0;none;none;none;none;none;none
+1.0;2;2;1;0;2;8;0;1;1;0;20;1;100;0;none;none;none;none;none;none
+3.0;20;5;7;0;7;133;1;2;7;0;492;9;86;78;none;none;none;none;none;none
+1.0;8;5;1;0;1;31;0;1;1;0;20;5;100;0;none;none;none;none;none;none
+0.0;4;2;8;0;2;68;2;2;8;0;41;0;75;70;Refused Bequest;none;none;none;none;none
+0.0;4;1;1;0;1;9;0;1;1;0;15;2;100;0;none;none;none;none;none;none
+0.0;2;1;0;0;8;11;0;1;0;0;458;0;0;0;none;none;none;none;none;none
+2.0;19;3;2;0;7;53;0;2;2;0;476;5;100;55;none;none;none;none;none;none
+0.0;3;3;1;0;1;11;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+2.0;21;4;3;1;5;337;0;6;4;0;584;9;133;90;none;none;none;none;none;none
+0.0;3;2;1;0;6;20;0;1;1;0;500;1;100;0;none;none;none;none;none;none
+1.0;18;4;5;0;2;140;0;1;5;0;53;11;100;0;none;none;none;none;none;none
+1.0;8;2;3;1;1;29;0;1;3;0;21;1;100;58;none;none;none;none;none;none
+0.0;2;1;2;1;1;18;0;1;2;0;13;0;100;33;none;none;none;none;none;none
+1.0;3;3;1;0;2;20;0;1;1;0;32;0;100;0;none;none;none;none;none;none
+2.0;2;3;7;1;2;85;0;1;8;0;52;1;114;_;none;none;none;none;none;none
+2.0;28;11;3;2;7;176;1;3;4;0;510;10;100;79;none;none;none;none;none;none
+2.0;13;11;1;0;1;66;0;1;1;0;27;10;100;0;none;none;none;none;none;none
+1.0;8;4;1;0;1;24;0;1;1;0;20;6;100;0;none;none;none;none;none;none
+2.0;18;2;1;2;6;74;0;1;2;0;472;6;200;16;Refused Bequest;none;none;none;none;none
+1.0;7;3;2;4;6;71;0;3;2;0;570;1;100;0;none;none;none;none;none;none
+0.0;9;3;1;0;1;22;0;1;1;0;19;3;100;0;none;none;none;none;none;none
+0.0;9;2;3;1;1;28;0;1;3;0;29;2;100;50;none;none;none;none;none;none
+3.0;28;12;1;0;6;347;0;3;10;0;510;18;1000;76;none;none;none;none;none;none
+0.0;0;2;3;1;1;25;1;1;3;0;16;0;67;37;none;none;none;none;none;none
+3.0;9;4;5;0;1;45;0;1;5;0;31;6;100;50;none;none;none;none;none;none
+6.0;30;9;6;1;5;322;1;7;12;0;484;10;183;62;Refused Bequest;none;none;none;none;none
+0.0;2;1;2;0;2;13;0;1;2;0;25;1;100;0;none;none;none;none;none;none
+0.0;2;1;5;2;0;9;0;1;5;0;5;0;100;0;none;none;none;none;none;none
+0.0;4;1;1;0;1;11;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+2.0;4;9;2;0;2;96;0;1;2;0;35;3;100;0;none;none;none;none;none;none
+0.0;3;2;1;0;2;15;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+0.0;2;1;2;0;1;12;0;1;2;0;16;1;100;0;none;none;none;none;none;none
+4.0;37;5;3;1;7;148;0;2;4;0;514;12;133;62;none;none;none;none;none;none
+0.0;6;5;1;0;1;19;0;1;1;0;20;5;100;0;none;none;none;none;none;none
+0.0;0;1;1;3;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+2.0;11;19;5;0;3;133;0;1;5;0;59;5;100;0;none;none;none;none;none;none
+4.0;7;10;12;1;1;348;1;1;13;0;48;2;100;77;none;none;none;none;none;Shotgun Surgery
+3.0;11;12;3;1;5;221;0;2;5;0;479;1;167;72;Refused Bequest;none;none;none;none;none
+7.0;12;12;5;0;2;140;0;1;6;0;51;8;120;41;none;none;none;none;none;none
+0.0;0;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;1;1;5;1;0;8;0;1;5;0;5;0;100;0;none;none;none;none;none;none
+3.0;17;5;8;5;1;388;0;6;9;0;91;8;113;60;none;none;none;none;Data Class;none
+1.0;10;4;8;1;2;128;0;1;12;0;79;4;150;79;none;none;none;none;none;none
+1.0;19;5;0;0;1;153;0;4;2;0;40;8;2;44;none;none;none;none;none;none
+0.0;2;1;2;0;3;20;0;1;2;0;29;1;100;0;none;none;none;none;none;none
+0.0;2;1;2;0;3;20;0;1;2;0;29;1;100;0;none;none;none;none;none;none
+0.0;2;1;3;0;3;25;0;1;3;0;31;1;100;0;none;none;none;none;none;none
+4.0;23;8;41;18;5;417;2;4;46;0;566;9;107;94;none;none;none;none;none;none
+0.0;0;1;4;1;0;7;0;1;4;0;4;0;100;0;none;none;none;none;none;none
+1.0;4;4;7;4;1;61;0;1;9;0;33;2;129;83;none;none;none;none;none;none
+1.0;9;4;1;0;2;54;0;1;3;0;32;5;300;54;none;none;none;none;none;none
+12.0;47;13;23;2;6;713;4;4;27;1;625;19;100;86;none;none;none;Large Class;none;Shotgun Surgery
+1.0;13;9;12;1;2;99;0;2;4;8;37;5;33;75;none;none;none;none;none;none
+0.0;2;9;1;0;2;28;0;1;2;0;52;1;200;0;none;none;none;none;none;none
+2.0;6;2;3;3;1;38;0;1;3;0;17;1;100;80;none;none;none;none;none;none
+0.0;7;1;2;0;1;12;0;1;2;0;17;0;100;0;none;none;none;none;none;none
+0.0;5;1;2;3;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+7.0;25;8;7;1;1;232;0;2;17;0;65;14;243;91;none;none;none;none;none;none
+1.0;3;1;1;0;3;14;0;1;1;0;28;2;100;50;none;none;none;none;none;none
+2.0;4;5;4;0;2;86;0;1;4;0;34;0;100;57;none;none;none;none;none;none
+0.0;3;1;1;1;1;3;0;1;1;0;12;0;100;0;none;none;none;none;none;none
+4.0;21;4;2;1;6;108;0;3;4;0;486;5;200;66;Refused Bequest;none;none;none;none;none
+0.0;8;4;1;0;1;19;0;1;1;0;20;7;100;0;none;none;none;none;none;none
+1.0;2;2;1;0;2;8;0;1;1;0;20;1;100;0;none;none;none;none;none;none
+0.0;6;3;1;0;7;30;0;1;1;0;558;0;100;0;none;none;none;none;none;none
+1.0;7;11;4;0;6;151;1;4;5;0;480;0;100;60;none;Feature Envy;none;none;none;none
+0.0;5;3;2;0;2;37;0;1;4;0;25;1;200;0;none;none;none;none;none;none
+1.0;10;11;1;0;2;70;0;1;2;0;38;10;200;0;none;none;none;none;none;none
+0.0;2;1;1;0;2;8;0;1;1;0;33;1;100;0;none;none;none;none;none;none
+3.0;30;5;2;0;7;149;0;4;2;0;513;9;100;66;Refused Bequest;none;none;none;none;none
+0.0;7;3;1;0;1;13;0;1;1;0;17;4;100;0;none;none;none;none;none;none
+1.0;6;5;2;1;1;52;0;1;2;0;26;4;100;37;none;none;none;none;none;none
+0.0;2;1;1;0;7;11;0;1;1;0;588;1;100;0;none;none;none;none;none;none
+3.0;12;32;11;0;1;779;0;1;14;0;84;7;127;75;none;none;none;none;none;Shotgun Surgery
+1.0;1;5;9;1;1;152;5;1;15;0;28;1;111;71;none;none;none;none;none;none
+5.0;36;5;8;0;7;229;0;2;9;0;518;17;113;80;none;none;none;none;Data Class;none
+0.0;3;3;1;0;1;15;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+4.0;31;12;2;0;7;316;0;4;5;0;535;12;250;66;none;none;none;none;none;Shotgun Surgery
+0.0;4;5;1;0;1;15;0;1;1;0;17;3;100;0;none;none;none;none;none;none
+1.0;7;2;0;0;7;29;0;1;2;0;532;4;2;33;none;none;none;none;none;none
+0.0;8;5;1;0;1;23;0;1;1;0;19;6;100;0;none;none;none;none;none;none
+0.0;10;7;13;1;2;154;1;1;16;0;62;4;115;81;none;none;none;none;none;none
+0.0;8;4;16;1;2;156;1;1;19;0;73;3;113;78;Refused Bequest;none;none;none;none;none
+6.0;22;3;9;2;6;131;1;2;9;0;507;6;89;78;Refused Bequest;none;none;none;none;none
+2.0;10;2;1;0;2;19;0;1;1;0;35;3;100;0;none;none;none;none;none;none
+2.0;7;3;3;1;6;89;1;2;5;0;563;3;133;42;none;none;none;none;none;none
+0.0;9;3;1;0;1;27;0;1;1;0;21;5;100;0;none;none;none;none;none;none
+6.0;35;7;3;2;7;266;0;3;7;0;518;10;233;84;none;none;none;none;Data Class;none
+0.0;3;3;1;0;1;10;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+0.0;5;7;1;0;1;26;0;1;1;0;17;4;100;0;none;none;none;none;none;none
+8.0;27;14;4;1;6;361;1;4;8;0;519;12;175;84;none;none;none;Large Class;none;none
+2.0;10;8;1;0;1;85;0;1;2;0;26;8;200;0;none;none;none;none;none;none
+4.0;12;14;3;1;6;82;1;1;4;0;583;9;100;50;none;none;none;none;none;none
+0.0;0;1;6;2;1;20;0;1;1;5;13;0;17;50;none;none;none;none;none;none
+0.0;4;9;18;10;3;135;3;1;19;0;82;1;89;83;none;Feature Envy;none;none;none;none
+0.0;2;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+0.0;17;6;18;2;1;241;3;2;18;0;67;8;83;72;none;none;none;none;none;none
+0.0;3;4;1;0;1;22;0;1;1;0;19;3;100;0;none;none;none;none;none;none
+4.0;10;10;6;1;6;113;0;1;8;0;591;5;133;0;none;none;none;none;Data Class;none
+3.0;16;11;11;7;6;221;2;3;13;0;610;5;100;72;none;none;none;none;none;none
+0.0;5;2;2;0;2;24;0;1;2;0;31;2;100;0;none;none;none;none;none;none
+3.0;9;2;4;0;3;33;0;1;4;0;42;6;100;50;none;none;none;none;none;none
+6.0;31;15;9;7;2;317;0;1;13;0;102;23;144;35;none;none;none;Large Class;none;none
+5.0;15;3;7;0;5;152;0;4;8;0;652;5;114;80;Refused Bequest;none;none;none;none;none
+0.0;1;1;1;0;6;10;0;1;1;0;495;0;100;0;none;none;none;none;none;none
+0.0;0;1;2;0;1;24;2;1;2;0;13;0;0;50;none;none;none;none;none;none
+3.0;6;2;1;0;6;22;0;1;1;0;499;2;100;0;none;none;none;none;none;none
+1.0;25;6;2;0;1;146;0;1;3;0;57;12;150;55;none;none;none;none;none;none
+4.0;10;12;8;8;1;365;0;2;11;0;60;10;138;82;none;Feature Envy;none;none;none;Shotgun Surgery
+0.0;1;3;8;7;1;52;2;1;5;3;18;2;38;56;none;none;none;none;none;none
+4.0;6;15;3;4;1;246;0;1;3;0;24;4;100;66;none;none;none;none;Data Class;none
+2.0;12;10;1;1;1;93;0;1;3;0;44;11;300;0;none;none;none;none;Data Class;none
+3.0;39;7;5;0;5;478;0;7;9;0;562;13;180;84;none;none;none;none;none;none
+0.0;7;7;1;0;1;41;0;1;1;0;25;6;100;0;none;none;none;none;none;none
+1.0;3;7;2;1;5;66;0;1;2;0;486;1;100;33;none;none;none;none;none;none
+0.0;2;1;3;1;1;18;0;1;3;0;18;1;100;0;none;none;none;none;none;none
+3.0;6;4;2;0;5;43;0;1;2;0;531;3;100;33;none;none;none;none;none;none
+4.0;7;1;0;0;6;121;0;1;0;0;479;6;0;100;none;none;none;none;none;none
+0.0;1;7;2;0;3;30;0;1;2;0;46;0;100;0;none;none;none;none;none;none
+6.0;34;5;7;0;5;212;0;4;10;0;524;13;143;68;none;none;none;Large Class;none;none
+1.0;3;2;1;0;2;13;0;1;1;0;21;2;100;0;none;none;none;none;none;none
+0.0;4;2;1;0;2;11;0;1;1;0;33;3;100;0;none;none;none;none;none;none
+0.0;7;4;1;0;6;25;0;1;1;0;505;4;100;0;none;none;none;none;none;none
+0.0;0;1;2;1;0;5;0;1;2;0;6;0;100;0;none;none;none;none;none;none
+2.0;11;6;6;1;6;312;0;3;8;0;609;7;133;68;none;Feature Envy;none;none;none;none
+0.0;7;5;3;0;2;80;0;1;5;0;34;5;167;0;none;none;none;none;none;none
+0.0;7;5;3;0;2;71;0;1;5;0;34;5;167;0;none;none;none;none;none;none
+6.0;38;13;8;1;7;399;0;3;15;0;564;15;188;81;none;none;none;none;none;Shotgun Surgery
+0.0;1;1;0;0;2;10;0;1;0;0;31;0;0;0;none;none;none;none;none;none
+1.0;7;6;0;0;7;53;0;1;2;0;532;4;2;33;none;none;none;none;none;none
+5.0;41;9;12;2;1;670;3;7;16;0;159;16;108;79;none;none;none;none;Data Class;none
+0.0;6;4;1;0;1;17;0;1;1;0;20;4;100;0;none;none;none;none;none;none
+3.0;8;8;5;1;1;146;0;1;8;0;36;6;160;0;none;none;none;none;none;none
+2.0;8;6;3;0;1;103;1;1;6;0;29;2;167;54;none;none;none;none;none;none
+0.0;3;1;1;0;1;12;0;1;1;0;33;2;100;0;none;none;none;none;none;none
+0.0;11;6;1;0;2;44;0;1;1;0;39;7;100;0;none;none;none;none;none;none
+2.0;11;4;6;1;1;83;0;1;3;0;38;3;50;32;none;none;none;none;none;none
+2.0;37;7;2;0;7;214;0;5;6;0;530;13;300;64;Refused Bequest;none;none;none;none;none
+0.0;3;3;1;0;1;11;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;8;0;1;1;0;15;1;100;0;none;none;none;none;none;none
+0.0;2;2;1;0;2;8;0;1;1;0;30;1;100;0;none;none;none;none;none;none
+0.0;2;7;1;0;6;49;0;1;2;0;510;2;200;33;none;none;none;none;none;none
+4.0;31;6;2;0;7;95;0;1;2;0;490;12;100;44;none;none;none;none;none;Shotgun Surgery
+3.0;23;7;23;2;5;394;0;6;23;0;532;2;100;85;Refused Bequest;none;none;none;none;none
+0.0;4;3;1;0;1;20;0;1;1;0;17;3;100;0;none;none;none;none;none;none
+0.0;3;1;3;0;1;23;0;1;4;0;21;2;133;0;none;none;none;none;none;none
+0.0;3;2;7;1;2;49;0;1;7;0;41;0;100;0;none;none;none;none;none;none
+4.0;10;7;3;0;2;81;0;1;4;0;43;2;133;50;none;none;none;none;none;none
+0.0;5;1;4;1;1;28;0;1;3;0;21;1;75;50;none;none;none;none;none;none
+8.0;45;8;5;0;5;332;0;10;8;0;547;12;160;82;none;none;none;Large Class;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;5;2;3;0;1;35;0;1;5;0;23;4;167;0;none;none;none;none;none;none
+0.0;5;1;1;0;1;8;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+0.0;5;1;2;0;1;11;0;1;2;0;18;2;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;6;6;1;0;1;33;0;1;1;0;20;5;100;0;none;none;none;none;none;none
+0.0;12;5;1;0;2;25;0;1;1;0;44;6;100;0;none;none;none;none;none;none
+0.0;4;8;1;0;6;42;0;1;1;0;507;3;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+1.0;8;2;5;8;6;70;0;2;5;0;556;1;100;78;none;Feature Envy;none;none;none;none
+0.0;4;1;2;0;2;13;0;1;2;0;32;3;100;0;none;none;none;none;none;none
+4.0;34;3;3;0;7;130;0;1;4;0;499;12;133;56;none;none;none;none;Data Class;none
+1.0;5;2;5;3;3;39;2;1;5;0;24;2;60;61;none;none;none;none;none;none
+7.0;23;4;5;1;4;190;0;1;8;0;498;12;160;81;none;none;none;none;none;none
+4.0;35;12;10;15;5;358;0;3;12;0;533;13;120;81;none;Feature Envy;none;none;none;Shotgun Surgery
+0.0;5;2;1;0;2;12;0;1;1;0;32;3;100;0;none;none;none;none;none;none
+1.0;3;1;6;0;1;51;0;1;6;0;33;1;100;66;none;none;none;none;none;none
+5.0;31;6;5;2;7;155;0;1;6;0;508;14;120;69;none;none;none;Large Class;none;none
+3.0;21;4;8;0;5;208;0;4;9;0;529;7;113;73;none;none;none;none;none;none
+1.0;9;4;1;0;1;41;0;1;1;0;29;5;100;0;none;none;none;none;none;none
+0.0;9;1;2;0;2;26;0;1;2;0;36;3;100;50;none;none;none;none;none;none
+0.0;6;2;5;1;2;56;0;1;7;0;53;1;140;50;none;none;none;none;none;none
+2.0;22;1;2;0;7;75;0;2;3;0;479;7;150;0;none;none;none;none;Data Class;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+7.0;28;4;2;0;7;98;0;2;3;0;506;11;150;70;none;none;none;none;none;none
+0.0;6;4;1;0;1;16;0;1;1;0;18;5;100;0;none;none;none;none;none;none
+2.0;6;3;2;1;1;65;0;2;4;0;26;0;200;50;none;none;none;none;none;none
+0.0;1;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+3.0;5;25;13;4;1;436;0;1;13;0;52;4;100;84;none;none;none;none;none;Shotgun Surgery
+0.0;3;3;1;0;1;93;0;2;1;0;35;0;100;0;none;none;none;none;none;none
+0.0;12;3;4;1;1;85;0;1;4;0;39;7;100;50;none;none;none;none;none;none
+0.0;3;1;1;0;1;79;0;3;1;0;37;0;100;0;Refused Bequest;none;none;none;none;none
+1.0;8;1;5;0;5;53;0;1;7;0;502;4;140;75;none;none;none;none;none;none
+0.0;2;1;3;0;1;18;0;1;3;0;18;0;100;50;none;none;none;none;none;none
+0.0;3;2;1;0;1;41;0;2;1;0;25;0;100;0;none;none;none;none;none;none
+0.0;10;2;3;0;1;33;0;1;3;0;28;6;100;37;none;none;none;none;none;none
+0.0;3;6;1;0;1;251;0;6;1;0;105;0;100;0;Refused Bequest;none;none;none;none;none
+3.0;30;6;3;1;7;135;0;2;4;0;510;12;133;71;none;none;none;none;none;none
+1.0;6;6;1;0;1;29;0;1;1;0;19;4;100;0;none;none;none;none;none;none
+1.0;14;4;4;0;5;85;0;2;5;0;509;6;125;72;none;none;none;none;none;none
+1.0;10;4;1;0;2;21;0;1;1;0;37;4;100;0;none;none;none;none;none;none
+0.0;3;1;3;0;1;22;0;1;3;0;19;0;100;25;none;none;none;none;none;none
+0.0;3;2;1;0;1;41;0;2;1;0;25;0;100;0;none;none;none;none;none;none
+0.0;10;2;3;0;1;33;0;1;3;0;28;6;100;37;none;none;none;none;none;none
+0.0;7;3;3;0;2;41;0;1;4;0;37;5;133;60;none;none;none;none;none;none
+0.0;3;3;1;0;1;57;0;2;1;0;27;0;100;0;none;none;none;none;none;none
+1.0;11;3;3;1;1;49;0;1;3;0;29;6;100;37;none;none;none;none;none;none
+0.0;3;2;1;0;1;95;0;2;1;0;35;0;100;0;none;none;none;none;none;none
+3.0;18;2;5;1;1;87;0;1;5;0;39;9;100;70;none;none;none;none;none;none
+0.0;3;4;1;0;1;55;0;2;1;0;34;0;100;0;none;none;none;none;none;none
+2.0;14;4;3;0;1;47;0;1;3;0;37;8;100;25;none;none;none;none;none;none
+0.0;3;2;1;0;1;145;0;4;1;0;60;0;100;0;none;none;none;none;none;none
+2.0;21;2;6;0;4;119;0;2;6;0;485;6;100;77;none;none;none;none;none;none
+0.0;4;2;1;0;2;12;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+0.0;3;1;3;0;1;18;0;1;3;0;18;0;100;50;none;none;none;none;none;none
+0.0;3;2;1;0;1;41;0;2;1;0;26;0;100;0;none;none;none;none;none;none
+0.0;11;2;3;0;1;33;0;1;3;0;29;7;100;37;none;none;none;none;none;none
+0.0;3;3;1;0;1;65;0;2;1;0;34;0;100;0;none;none;none;none;none;none
+1.0;14;3;3;0;1;56;0;1;3;0;37;6;100;25;none;none;none;none;none;none
+0.0;3;3;1;0;1;61;0;2;1;0;34;0;100;0;none;none;none;none;none;none
+1.0;14;3;3;0;1;53;0;1;3;0;37;6;100;25;none;none;none;none;none;none
+0.0;3;3;1;0;1;61;0;2;1;0;34;0;100;0;none;none;none;none;none;none
+1.0;14;3;3;0;1;53;0;1;3;0;37;6;100;25;none;none;none;none;none;none
+0.0;3;4;1;0;1;95;0;3;1;0;36;0;100;0;Refused Bequest;none;none;none;none;none
+2.0;12;4;4;1;1;87;0;2;4;0;39;6;100;33;none;none;none;none;none;none
+1.0;3;1;3;0;5;22;0;1;3;0;486;2;100;33;none;none;none;none;none;none
+0.0;2;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;5;2;1;0;1;110;0;2;1;0;42;3;100;0;Refused Bequest;none;none;none;none;none
+2.0;12;2;11;1;5;100;0;1;11;0;516;7;100;83;none;none;none;none;none;none
+0.0;2;1;1;0;5;8;0;1;1;0;482;0;100;0;Refused Bequest;none;none;none;none;none
+0.0;1;1;3;2;0;6;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+0.0;3;5;1;0;1;72;0;2;1;0;37;0;100;0;none;none;none;none;none;none
+1.0;14;5;3;0;1;64;0;1;4;0;40;8;133;30;none;none;none;none;none;none
+1.0;15;11;1;0;4;120;0;3;2;0;74;6;200;66;none;none;none;none;none;none
+0.0;6;4;1;0;1;26;0;1;1;0;17;2;100;0;none;none;none;none;none;none
+3.0;9;11;1;0;2;51;0;1;2;0;45;7;200;50;none;none;none;none;none;none
+0.0;1;1;0;0;3;8;0;1;1;0;35;0;1;0;none;none;none;none;none;none
+0.0;11;5;2;1;2;76;1;3;2;0;48;2;50;58;none;none;none;none;none;none
+1.0;9;2;1;0;2;13;0;1;1;0;35;5;100;0;none;none;none;none;none;none
+0.0;3;1;3;0;1;17;0;1;3;0;18;1;100;0;none;none;none;none;none;none
+1.0;8;6;3;1;1;67;0;1;3;0;27;6;100;33;none;none;none;none;none;none
+1.0;6;3;9;2;1;163;0;2;13;0;37;3;144;45;none;none;none;none;none;none
+0.0;0;1;2;1;1;31;0;1;2;0;15;1;100;19;none;none;none;none;none;none
+0.0;0;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+2.0;22;15;6;1;1;271;0;4;9;0;68;11;150;63;none;none;none;none;none;Shotgun Surgery
+0.0;0;2;2;0;1;20;1;1;2;0;14;0;50;50;none;none;none;none;none;none
+1.0;1;5;0;0;1;41;0;2;1;0;14;1;1;37;none;none;none;none;none;none
+0.0;1;2;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+4.0;27;11;0;0;5;219;0;7;1;0;519;5;1;37;Refused Bequest;none;none;none;none;Shotgun Surgery
+4.0;11;11;1;0;1;76;0;1;1;0;42;13;100;0;none;none;none;none;none;none
+1.0;6;2;1;0;2;13;0;1;1;0;33;3;100;0;none;none;none;none;none;none
+1.0;1;1;0;0;1;16;0;1;0;0;11;0;0;33;none;none;none;none;none;none
+1.0;1;2;1;0;1;10;0;1;1;0;31;1;100;0;none;none;none;none;none;none
+1.0;6;3;3;0;1;37;0;1;3;0;25;3;100;75;none;none;none;none;none;none
+1.0;4;2;1;0;6;25;0;1;1;0;499;0;100;0;none;none;none;none;none;none
+1.0;19;4;1;1;1;168;0;4;3;0;45;8;300;50;none;none;none;none;none;none
+0.0;0;1;3;2;1;13;1;1;1;2;12;0;0;25;none;none;none;none;none;none
+0.0;3;1;1;0;1;10;0;1;1;0;33;2;100;0;none;none;none;none;none;none
+0.0;5;4;3;0;2;55;0;1;3;0;60;2;100;50;none;none;none;none;none;none
+1.0;19;4;2;1;5;160;0;3;2;0;508;4;100;50;none;none;none;none;none;none
+1.0;4;3;0;0;7;19;0;1;2;0;527;0;2;50;none;none;none;none;none;none
+4.0;12;4;2;0;5;72;0;1;5;0;601;6;250;0;none;none;none;none;none;none
+10.0;46;9;8;0;6;464;2;6;10;0;610;17;100;86;none;none;none;Large Class;none;Shotgun Surgery
+1.0;8;7;1;0;1;51;0;1;1;0;25;7;100;0;none;none;none;none;none;none
+1.0;5;2;1;0;2;44;0;1;1;0;26;3;100;0;none;none;none;none;none;none
+2.0;9;6;1;0;1;33;0;1;1;0;23;6;100;0;none;none;none;none;none;none
+2.0;17;5;2;0;2;50;0;1;3;0;50;9;150;0;none;none;none;none;none;none
+0.0;9;3;1;0;1;20;0;1;1;0;22;8;100;0;none;none;none;none;none;none
+0.0;2;1;8;2;0;11;0;1;8;0;8;0;100;0;none;none;none;none;none;none
+3.0;11;8;5;1;5;115;0;3;4;0;480;3;80;75;Refused Bequest;none;none;none;none;none
+0.0;10;8;1;0;1;37;0;1;1;0;20;2;100;0;none;none;none;none;none;none
+3.0;4;1;1;0;2;15;0;1;1;0;32;2;100;0;none;none;none;none;none;none
+1.0;4;9;3;2;1;96;0;3;3;0;22;1;100;50;none;none;none;none;none;none
+0.0;0;_;0;0;1;5;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+3.0;5;9;3;1;1;65;0;1;3;1;18;1;100;43;none;none;none;none;none;none
+2.0;6;8;1;0;2;102;0;2;1;0;31;2;100;0;none;none;none;none;none;none
+0.0;3;2;6;1;1;56;3;1;6;0;26;2;50;73;none;none;none;none;none;none
+1.0;6;9;1;0;1;140;0;2;2;0;32;3;200;66;none;none;none;none;none;none
+2.0;7;9;3;0;1;61;0;1;3;0;22;2;100;50;none;none;none;none;none;none
+0.0;2;2;4;3;0;123;0;8;2;0;7;0;50;0;none;none;none;none;none;none
+0.0;1;1;2;0;1;17;1;1;2;0;15;0;50;33;none;none;none;none;none;none
+0.0;1;1;2;0;1;17;0;1;2;0;15;0;100;33;none;none;none;none;none;none
+0.0;1;1;2;0;1;15;0;1;2;0;15;0;100;0;none;none;none;none;none;none
+0.0;1;1;2;0;1;12;0;1;2;0;16;0;100;0;none;none;none;none;none;none
+0.0;1;2;3;0;1;28;0;1;3;0;17;0;100;19;none;none;none;none;none;none
+0.0;2;2;2;0;1;14;0;1;2;0;18;1;100;0;none;none;none;none;none;none
+0.0;1;1;2;0;1;12;0;1;2;0;15;0;100;0;none;none;none;none;none;none
+0.0;3;1;1;1;0;6;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;7;1;8;0;1;57;0;1;8;0;26;0;100;0;none;none;none;none;none;none
+2.0;6;4;1;0;2;50;0;1;3;0;24;1;300;75;Refused Bequest;none;none;none;none;none
+3.0;8;6;2;0;1;93;0;2;3;0;26;2;150;44;none;none;none;none;Data Class;none
+2.0;3;3;2;0;1;40;0;1;2;0;18;0;100;33;none;none;none;none;none;none
+0.0;4;7;1;0;1;29;0;1;1;0;19;2;100;0;none;none;none;none;none;none
+3.0;12;6;19;15;1;212;2;1;20;1;56;7;95;91;none;Feature Envy;none;none;none;none
+0.0;1;1;1;0;1;12;1;1;1;0;13;0;0;0;none;none;none;none;none;none
+0.0;1;1;1;2;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+5.0;18;19;4;0;2;223;0;1;8;0;69;11;200;37;none;none;none;none;none;none
+2.0;11;4;4;3;1;112;0;2;5;0;32;7;125;0;none;none;none;none;none;none
+0.0;5;2;3;1;1;34;2;1;3;0;19;1;33;50;none;none;none;none;none;none
+1.0;10;1;3;4;1;26;0;1;3;0;24;1;100;0;none;none;none;none;none;none
+2.0;10;7;2;0;2;174;0;1;5;0;57;6;250;59;none;none;none;none;none;none
+0.0;5;1;3;4;0;9;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+0.0;2;1;1;2;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;19;3;6;5;1;68;0;1;6;0;35;9;100;50;none;none;none;none;none;none
+0.0;13;11;3;0;1;111;0;2;3;0;31;1;100;67;none;none;none;none;none;none
+0.0;3;11;1;0;1;51;0;1;1;0;14;0;100;0;none;none;none;none;none;none
+3.0;12;4;10;4;2;169;0;2;9;0;85;7;90;62;Refused Bequest;none;none;none;none;none
+2.0;4;2;3;5;2;28;1;1;3;0;49;2;67;50;none;none;none;none;none;none
+1.0;7;6;4;3;2;100;0;2;4;0;77;2;100;80;Refused Bequest;none;none;none;none;none
+1.0;6;6;1;0;2;43;0;1;1;0;53;3;100;0;none;none;none;none;none;none
+5.0;23;7;19;2;2;412;0;2;18;0;144;12;95;92;none;none;none;none;none;none
+2.0;8;3;9;2;2;91;0;1;9;0;67;1;100;82;none;none;none;none;none;none
+2.0;5;2;6;1;1;47;2;1;6;0;27;3;67;50;none;none;none;none;none;none
+1.0;9;2;1;0;2;47;0;1;1;0;43;6;100;12;none;none;none;none;none;none
+0.0;7;4;2;1;1;48;0;1;2;0;26;3;100;55;none;none;none;none;none;none
+1.0;9;2;4;0;2;59;0;1;4;0;60;4;100;0;none;none;none;none;none;none
+6.0;40;13;50;35;1;585;3;4;38;0;126;17;70;96;none;none;none;none;none;none
+0.0;2;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+0.0;2;3;1;0;1;20;0;1;1;0;33;1;100;0;none;none;none;none;none;none
+0.0;2;1;2;1;1;16;1;1;2;0;15;1;50;33;none;none;none;none;none;none
+3.0;17;9;33;21;1;302;10;1;32;0;70;10;67;91;none;none;none;none;none;none
+0.0;1;1;4;2;0;7;0;1;3;0;4;0;75;0;none;none;none;none;none;none
+3.0;20;6;17;35;1;256;0;3;16;0;82;9;94;93;none;Feature Envy;none;none;none;none
+2.0;8;5;1;0;1;80;0;1;2;0;29;6;200;33;none;none;none;none;none;none
+0.0;8;2;1;0;1;15;0;1;1;0;17;3;100;0;none;none;none;none;none;none
+1.0;5;5;1;0;1;50;0;1;2;0;25;2;200;0;none;none;none;none;none;none
+1.0;16;11;2;0;1;101;0;1;2;0;45;8;100;33;none;none;none;none;none;Shotgun Surgery
+0.0;1;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+4.0;21;6;2;0;7;102;0;2;2;0;608;8;100;44;Refused Bequest;none;none;none;none;none
+1.0;5;3;2;0;2;27;0;1;2;0;71;4;100;0;none;none;none;none;none;none
+1.0;11;8;4;0;7;112;0;2;5;0;662;6;125;77;Refused Bequest;none;none;none;none;none
+0.0;3;2;2;0;1;21;0;1;2;0;15;0;100;16;none;none;none;none;none;none
+4.0;21;6;2;0;6;86;0;1;2;0;600;9;100;41;Refused Bequest;none;none;none;none;none
+1.0;17;4;2;0;1;54;0;1;2;0;36;10;100;0;none;none;none;none;none;none
+0.0;10;8;2;0;1;56;0;1;3;0;33;3;150;0;none;none;none;none;none;none
+0.0;15;4;2;0;1;117;0;2;2;0;57;9;100;0;Refused Bequest;none;none;none;none;none
+3.0;12;3;2;0;6;70;0;1;3;0;595;6;150;60;none;none;none;none;none;none
+0.0;3;3;1;0;1;22;0;1;1;0;32;2;100;0;none;none;none;none;none;none
+1.0;12;17;2;0;1;99;0;1;3;0;38;9;150;0;none;none;none;none;none;Shotgun Surgery
+1.0;20;8;2;0;1;84;0;1;2;0;46;13;100;0;none;none;none;none;none;Shotgun Surgery
+4.0;26;14;2;0;1;127;0;1;2;0;68;21;100;0;none;none;none;none;none;Shotgun Surgery
+3.0;16;6;3;0;1;91;0;1;3;0;48;12;100;33;none;none;none;none;none;none
+2.0;4;2;1;0;4;18;1;1;1;0;22;3;0;0;none;none;none;none;none;none
+0.0;2;2;14;12;2;40;2;1;4;0;19;0;14;90;none;none;none;none;none;none
+0.0;1;2;6;3;2;31;2;1;3;0;18;0;17;70;none;none;none;none;none;none
+0.0;1;1;2;1;2;17;1;1;2;0;16;0;50;0;none;none;none;none;none;none
+0.0;1;2;9;10;2;29;1;1;3;0;18;0;22;89;none;Feature Envy;none;none;none;none
+0.0;1;1;3;1;2;20;1;1;3;0;17;0;67;50;none;none;none;none;none;none
+0.0;1;1;0;0;2;7;0;1;0;0;14;0;0;0;none;none;none;none;none;none
+0.0;1;1;0;0;2;7;0;1;0;0;14;0;0;0;none;none;none;none;none;none
+0.0;4;4;11;7;2;66;5;1;6;0;25;2;9;81;none;none;none;none;none;none
+1.0;2;1;0;0;3;15;0;1;0;0;18;1;0;0;none;none;none;none;none;none
+0.0;1;1;0;0;2;11;0;1;0;0;14;0;0;0;none;none;none;none;none;none
+0.0;0;_;0;0;2;18;0;1;0;0;14;0;0;0;none;none;none;none;none;none
+0.0;3;1;3;1;2;21;1;1;3;0;19;2;67;0;none;none;none;none;none;none
+0.0;1;1;0;0;2;7;0;1;0;0;14;0;0;0;none;none;none;none;none;none
+0.0;1;1;3;0;2;23;2;1;3;0;17;0;33;50;none;none;none;none;none;none
+0.0;1;2;2;3;2;19;1;1;2;0;17;0;50;0;none;none;none;none;none;none
+0.0;1;2;8;5;2;28;1;1;3;0;18;0;25;87;none;none;none;none;none;none
+5.0;44;7;0;0;6;370;0;9;5;0;574;15;5;66;Refused Bequest;none;none;none;none;none
+1.0;11;3;6;1;2;127;0;3;9;0;62;4;150;50;none;none;none;none;none;none
+0.0;0;1;0;0;1;11;0;1;0;0;11;0;0;50;none;none;none;none;none;none
+1.0;2;2;1;0;1;25;0;1;1;0;32;2;100;0;none;none;none;none;none;none
+0.0;12;7;1;0;1;46;0;1;1;0;32;9;100;0;none;none;none;none;none;none
+0.0;5;2;1;0;2;16;0;1;1;0;33;3;100;0;none;none;none;none;none;none
+0.0;1;2;1;0;6;18;0;1;1;0;500;0;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;2;2;1;0;2;9;0;1;1;0;30;1;100;0;none;none;none;none;none;none
+1.0;22;6;2;0;6;183;0;1;5;0;520;9;250;63;none;none;none;none;none;none
+2.0;6;4;9;1;2;158;0;3;12;0;71;2;133;_;none;none;none;none;none;none
+1.0;5;4;1;0;5;34;0;1;1;0;484;1;100;_;none;none;none;none;none;none
+0.0;1;1;0;0;1;10;0;1;0;0;11;0;0;_;none;none;none;none;none;none
+4.0;28;7;0;0;6;136;0;4;4;0;523;10;4;56;Refused Bequest;none;none;none;none;none
+0.0;5;7;1;0;1;37;0;1;1;0;22;4;100;0;none;none;none;none;none;none
+0.0;10;3;1;0;2;17;0;1;1;0;36;3;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;1;1;0;0;7;17;0;1;2;0;481;1;2;0;none;none;none;none;none;none
+0.0;4;6;2;0;6;108;0;1;2;0;485;2;100;33;none;none;none;none;none;none
+2.0;16;9;0;0;6;245;0;2;2;0;514;9;2;33;none;none;none;none;none;Shotgun Surgery
+0.0;6;2;1;0;1;25;0;1;1;0;19;4;100;0;none;none;none;none;none;none
+0.0;3;1;0;0;7;30;0;1;3;0;487;2;3;50;none;none;none;none;none;none
+3.0;30;3;4;1;6;145;0;2;6;0;527;10;150;75;none;none;none;none;none;none
+1.0;2;1;1;0;5;22;0;1;1;0;527;0;100;0;none;none;none;none;none;none
+4.0;36;8;5;0;6;296;0;4;10;0;561;13;200;82;Refused Bequest;none;none;none;none;Shotgun Surgery
+1.0;8;4;1;0;1;28;0;1;1;0;19;5;100;0;none;none;none;none;none;none
+1.0;3;4;1;0;5;17;0;1;1;0;485;0;100;0;none;none;none;none;none;none
+0.0;6;3;1;0;1;17;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+0.0;6;1;0;0;6;33;0;1;2;0;486;0;2;33;none;none;none;none;none;none
+1.0;12;6;0;0;6;105;0;1;2;0;504;6;2;33;none;none;none;none;none;none
+0.0;8;1;2;0;6;74;0;2;2;0;489;3;100;33;none;none;none;none;none;none
+0.0;4;1;1;0;1;13;0;1;1;0;15;2;100;0;none;none;none;none;none;none
+1.0;13;4;4;3;6;200;0;2;2;0;507;3;50;47;Refused Bequest;none;none;none;none;Shotgun Surgery
+0.0;2;2;1;0;6;14;0;1;1;0;499;1;100;0;none;none;none;none;none;none
+0.0;7;3;1;0;8;61;0;1;4;0;481;4;400;0;none;none;none;none;none;none
+5.0;26;3;7;1;6;253;0;1;9;0;522;9;129;79;none;none;none;none;none;none
+0.0;2;1;3;1;1;17;0;1;3;0;17;2;100;66;none;none;none;none;none;none
+0.0;3;2;1;0;2;20;0;1;1;0;17;2;100;0;none;none;none;none;none;none
+0.0;5;4;0;0;6;63;0;1;2;0;484;2;2;41;none;none;none;none;none;none
+2.0;17;6;0;0;6;341;0;3;6;0;518;7;6;46;none;none;none;none;none;none
+1.0;6;3;1;0;1;18;0;1;1;0;19;4;100;0;none;none;none;none;none;none
+0.0;3;6;0;0;1;133;0;1;2;0;25;2;2;52;none;none;none;none;none;none
+0.0;4;6;1;0;6;88;0;1;2;0;485;2;200;33;none;none;none;none;none;none
+5.0;28;6;0;0;6;282;0;5;3;0;550;6;3;56;Refused Bequest;none;none;none;none;Shotgun Surgery
+0.0;8;1;1;0;1;9;0;1;1;0;18;4;100;0;none;none;none;none;none;none
+1.0;4;2;4;1;2;29;0;1;4;0;31;2;100;0;none;none;none;none;none;none
+0.0;0;1;1;0;2;9;0;1;1;0;62;0;100;0;none;none;none;none;none;none
+2.0;21;6;1;0;2;96;0;1;2;0;62;13;200;33;none;none;none;none;none;none
+0.0;8;7;0;0;8;64;0;2;2;0;485;3;2;66;Refused Bequest;none;none;none;none;none
+0.0;0;1;0;0;6;7;0;1;0;0;472;0;0;0;none;none;none;none;none;none
+0.0;7;1;0;0;6;73;0;1;2;0;491;2;2;33;none;none;none;none;none;none
+1.0;11;4;0;0;6;128;0;2;2;0;494;4;2;33;none;none;none;none;none;none
+1.0;6;2;1;0;1;13;0;1;1;0;16;2;100;0;none;none;none;none;none;none
+7.0;48;14;0;0;6;583;0;8;9;0;597;19;9;76;Refused Bequest;none;none;none;none;Shotgun Surgery
+1.0;12;14;1;0;1;96;0;1;1;0;36;10;100;0;none;none;none;none;none;none
+0.0;6;2;1;0;2;21;0;1;1;0;34;5;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;6;13;0;1;1;0;501;1;100;0;none;none;none;none;none;none
+0.0;3;3;4;0;2;50;1;1;6;0;35;3;125;42;none;none;none;none;none;none
+2.0;10;6;11;1;2;137;2;2;10;0;57;5;73;69;none;none;none;none;none;none
+1.0;2;6;1;0;1;39;0;1;1;0;32;2;100;0;none;none;none;none;none;none
+0.0;8;3;1;0;2;20;0;1;1;0;38;4;100;0;none;none;none;none;none;none
+4.0;27;12;0;0;6;438;0;6;4;0;578;4;4;58;Refused Bequest;none;none;none;none;Shotgun Surgery
+0.0;6;12;1;0;1;75;0;1;1;0;29;5;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;8;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;2;2;1;0;6;15;0;1;1;0;500;1;100;0;none;none;none;none;none;none
+3.0;30;6;3;1;7;152;1;2;3;0;504;10;67;68;none;none;none;none;none;none
+0.0;6;5;1;0;1;28;0;1;1;0;19;5;100;0;none;none;none;none;none;none
+2.0;15;4;1;1;6;201;0;5;4;0;528;5;400;80;Refused Bequest;none;none;none;none;none
+0.0;11;4;1;0;2;24;0;1;1;0;37;4;100;0;none;none;none;none;none;none
+2.0;14;4;6;1;2;133;0;3;7;0;71;8;117;25;none;none;none;none;none;none
+0.0;1;1;1;0;1;17;1;1;1;0;12;0;0;33;none;none;none;none;none;none
+1.0;6;4;1;0;5;36;0;1;1;0;486;3;100;0;none;none;none;none;none;none
+5.0;21;9;2;0;6;373;0;3;2;0;545;5;100;33;Refused Bequest;none;none;none;none;none
+3.0;21;9;3;1;5;130;0;2;3;0;489;6;100;41;none;none;none;none;none;none
+0.0;2;1;1;0;6;18;0;1;1;0;499;1;100;0;none;none;none;none;none;none
+7.0;48;10;3;1;7;288;0;3;5;0;539;14;167;_;none;none;none;none;none;none
+2.0;13;8;1;0;1;38;0;1;1;0;26;6;100;_;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;32;1;100;_;none;none;none;none;none;none
+4.0;29;13;0;0;6;311;0;8;4;0;539;5;4;62;Refused Bequest;none;none;none;none;Shotgun Surgery
+1.0;11;13;1;0;1;85;0;1;1;0;30;6;100;0;none;none;none;none;none;none
+0.0;2;2;3;0;1;28;1;1;3;0;17;1;67;56;none;none;none;none;none;none
+1.0;2;1;1;0;6;13;0;1;1;0;498;0;100;0;none;none;none;none;none;none
+1.0;2;1;1;0;1;10;0;1;1;0;31;1;100;0;none;none;none;none;none;none
+1.0;2;1;1;0;6;13;0;1;1;0;498;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;14;1;1;1;0;12;0;0;25;none;none;none;none;none;none
+0.0;2;1;1;0;1;7;0;1;1;0;14;1;100;0;none;none;none;none;none;none
+0.0;5;1;0;0;6;24;0;1;2;0;483;3;2;33;none;none;none;none;none;none
+4.0;20;12;0;0;6;237;0;2;2;0;503;5;2;37;none;none;none;none;none;none
+0.0;6;12;1;0;1;32;0;1;1;0;18;4;100;0;none;none;none;none;none;none
+1.0;9;4;10;1;2;155;0;3;10;0;67;4;100;_;none;none;none;none;none;none
+1.0;2;3;0;0;1;20;0;1;1;0;14;1;1;_;none;none;none;none;none;none
+1.0;2;1;1;0;1;10;0;1;1;0;31;1;100;_;none;none;none;none;none;none
+9.0;69;13;2;1;5;1145;0;16;6;0;674;21;300;77;none;none;none;Large Class;none;none
+4.0;8;3;2;1;7;34;0;1;2;0;564;3;100;33;none;none;none;none;none;none
+1.0;8;1;1;0;7;17;0;1;1;0;560;5;100;0;none;none;none;none;none;none
+4.0;15;3;1;1;1;61;1;1;3;0;30;6;200;71;none;none;none;none;none;none
+1.0;2;9;1;0;1;57;0;1;1;0;32;2;100;37;none;none;none;none;none;none
+1.0;5;1;1;0;2;10;0;1;1;0;32;3;100;0;none;none;none;none;none;none
+2.0;4;3;1;0;6;21;0;1;1;0;496;0;100;0;none;none;none;none;none;none
+4.0;15;10;2;0;6;79;0;1;2;0;574;10;100;0;none;none;none;none;none;none
+1.0;6;4;1;0;2;38;0;1;1;0;37;4;100;0;none;none;none;none;none;none
+3.0;11;3;1;0;6;40;0;1;1;0;579;6;100;0;none;none;none;none;none;none
+10.0;28;13;15;1;2;397;0;1;18;0;107;17;120;78;none;none;none;none;none;none
+1.0;6;6;2;0;7;33;0;1;2;0;561;5;100;0;none;none;none;none;none;none
+4.0;7;5;1;0;5;38;0;1;2;0;489;4;200;33;none;none;none;none;none;none
+0.0;4;2;1;0;2;15;0;1;1;0;50;1;100;0;none;none;none;none;none;none
+0.0;5;3;1;0;2;17;0;1;1;0;24;3;100;0;none;none;none;none;none;none
+1.0;1;2;1;0;6;18;0;1;1;0;495;0;100;0;none;none;none;none;none;none
+10.0;58;15;1;1;5;1131;0;18;3;0;687;15;300;72;Refused Bequest;none;none;none;none;Shotgun Surgery
+3.0;14;5;1;1;1;87;0;1;1;0;32;6;100;47;none;none;none;none;none;none
+1.0;3;3;5;1;1;51;0;1;2;0;35;3;40;55;none;none;none;none;none;none
+3.0;23;15;1;0;6;102;0;1;1;0;589;12;100;0;none;none;none;none;none;none
+1.0;14;5;1;0;2;68;0;2;1;0;57;7;100;0;none;none;none;none;none;none
+3.0;14;5;1;0;1;35;0;1;1;0;25;8;100;0;none;none;none;none;none;none
+2.0;4;3;1;0;6;21;0;1;1;0;496;0;100;0;none;none;none;none;none;none
+3.0;14;6;2;0;6;50;0;1;2;0;563;8;100;33;none;none;none;none;none;none
+0.0;3;1;1;0;7;18;0;1;1;0;555;2;100;0;none;none;none;none;none;none
+1.0;6;3;1;0;2;35;0;1;1;0;37;4;100;0;none;none;none;none;none;none
+0.0;5;2;1;0;2;20;0;1;1;0;50;1;100;0;none;none;none;none;none;none
+5.0;29;8;13;1;2;303;0;1;15;0;116;18;115;76;none;none;none;none;none;none
+3.0;28;11;2;0;6;99;0;1;2;0;592;15;100;0;none;none;none;none;none;none
+3.0;11;3;1;0;7;25;0;1;1;0;565;5;100;0;none;none;none;none;none;none
+4.0;24;4;1;0;7;61;0;1;2;0;584;11;200;0;none;none;none;none;none;none
+0.0;5;3;1;0;2;17;0;1;1;0;23;3;100;0;none;none;none;none;none;none
+0.0;6;2;1;0;1;13;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+3.0;6;2;1;0;6;19;0;1;1;0;498;2;100;0;none;none;none;none;none;none
+2.0;31;4;2;1;1;116;2;3;6;0;49;7;200;42;none;none;none;none;Data Class;none
+0.0;0;_;6;4;1;9;0;1;0;5;11;0;0;0;none;none;none;none;none;none
+1.0;1;4;2;0;1;16;0;1;2;0;32;1;100;0;none;none;none;none;none;none
+2.0;7;5;6;0;2;90;0;1;9;0;70;2;150;78;none;none;none;none;none;none
+4.0;16;7;0;0;5;81;0;1;2;0;482;5;2;44;Refused Bequest;none;none;none;none;none
+8.0;37;12;3;0;1;508;0;5;9;0;110;12;300;78;none;none;none;none;none;Shotgun Surgery
+1.0;3;3;2;1;1;43;0;1;4;0;22;1;200;78;none;none;none;none;none;none
+3.0;7;8;1;0;1;105;0;1;4;0;26;5;400;28;none;none;none;none;none;none
+3.0;12;7;1;0;1;120;1;1;6;0;35;7;500;77;none;none;none;none;none;none
+0.0;1;1;1;0;1;9;0;1;1;0;12;0;100;50;none;none;none;none;none;none
+4.0;11;12;7;0;2;200;0;1;10;0;80;4;143;77;none;none;none;none;none;none
+9.0;41;14;10;4;6;253;0;3;16;0;537;15;160;88;none;none;none;Large Class;none;none
+0.0;5;4;1;0;1;14;0;1;1;0;17;2;100;0;none;none;none;none;none;none
+0.0;5;3;1;0;1;13;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+2.0;22;2;4;1;6;131;0;4;4;0;487;5;100;82;Refused Bequest;none;none;none;none;none
+0.0;4;2;1;0;1;12;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;2;12;0;1;1;0;57;1;100;0;none;none;none;none;none;none
+1.0;4;2;2;0;2;20;0;1;2;0;37;2;100;50;none;none;none;none;none;none
+1.0;13;11;1;1;1;369;0;4;10;0;84;7;1000;75;none;none;none;none;none;Shotgun Surgery
+3.0;23;11;4;0;2;207;1;1;5;0;56;10;100;63;none;none;none;none;none;none
+0.0;2;1;3;2;1;13;0;1;3;0;14;0;100;0;none;none;none;none;none;none
+3.0;11;6;2;1;2;56;0;1;3;0;32;5;150;25;none;none;none;none;none;none
+1.0;10;5;10;0;3;169;0;2;11;0;83;3;110;69;none;none;none;none;none;none
+4.0;17;5;4;1;5;106;0;1;5;0;488;10;125;0;none;none;none;none;none;none
+4.0;36;14;2;2;1;272;0;2;5;0;77;19;250;69;none;none;none;none;none;Shotgun Surgery
+0.0;0;1;1;0;1;13;0;1;1;0;13;0;100;0;none;none;none;none;none;none
+6.0;44;19;6;1;1;389;0;2;11;0;106;20;183;79;none;none;none;Large Class;none;Shotgun Surgery
+0.0;0;1;1;0;1;13;0;1;1;0;13;0;100;0;none;none;none;none;none;none
+1.0;10;2;3;0;1;64;0;1;4;0;43;3;133;12;none;none;none;none;none;none
+6.0;29;8;3;0;1;141;0;1;5;0;59;11;167;30;none;none;none;none;none;none
+8.0;50;11;4;2;1;346;0;2;9;0;127;21;225;61;none;none;none;none;none;Shotgun Surgery
+1.0;10;2;3;0;2;43;0;1;3;0;36;6;100;0;none;none;none;none;none;none
+1.0;1;3;11;1;1;110;0;1;13;0;39;2;118;77;none;none;none;none;none;none
+3.0;20;7;6;0;2;99;2;1;7;0;47;13;83;50;none;none;none;none;none;none
+4.0;37;7;2;0;7;268;0;1;5;0;508;9;250;67;none;none;none;none;none;Shotgun Surgery
+1.0;8;2;19;4;2;126;9;1;19;0;49;0;53;85;none;none;none;none;none;none
+1.0;9;3;10;2;4;72;1;1;10;0;465;2;90;81;none;none;none;none;none;none
+0.0;0;_;0;0;2;3;0;1;0;0;24;0;0;0;none;none;none;none;none;none
+10.0;65;25;14;3;6;1439;5;15;14;7;697;21;64;92;none;none;none;Large Class;none;Shotgun Surgery
+5.0;15;3;1;0;6;80;0;3;1;0;472;3;100;0;none;none;none;none;none;none
+0.0;4;2;1;0;5;16;0;1;1;0;483;2;100;0;none;none;none;none;none;none
+0.0;4;2;1;0;5;16;0;1;1;0;483;2;100;0;none;none;none;none;none;none
+4.0;35;7;1;0;6;171;0;2;1;0;505;11;100;0;none;none;none;none;none;none
+0.0;5;3;1;0;5;32;0;1;1;0;486;1;100;0;none;none;none;none;none;none
+6.0;27;4;1;0;6;83;0;1;1;0;492;10;100;12;none;none;none;none;none;none
+0.0;1;2;0;0;2;11;0;1;0;0;19;0;0;0;none;none;none;none;none;none
+7.0;41;8;1;0;6;392;0;4;8;0;532;19;800;64;none;none;none;none;none;none
+0.0;4;2;1;0;5;16;0;1;1;0;483;2;100;0;none;none;none;none;none;none
+0.0;4;2;1;0;5;16;0;1;1;0;483;2;100;0;none;none;none;none;none;none
+0.0;4;2;1;0;5;16;0;1;1;0;483;2;100;0;none;none;none;none;none;none
+0.0;4;1;0;0;5;10;0;1;1;0;456;1;1;0;none;none;none;none;none;none
+0.0;1;1;6;1;1;23;2;1;2;0;14;0;0;77;none;none;none;none;none;none
+2.0;12;1;1;0;6;51;0;1;1;0;475;3;100;0;none;none;none;none;none;none
+0.0;0;1;4;3;1;28;2;1;4;0;20;0;50;19;none;none;none;none;none;none
+0.0;4;1;1;0;2;9;0;1;1;0;25;0;100;0;none;none;none;none;none;none
+2.0;11;10;3;0;2;106;0;1;3;0;87;6;100;41;none;none;none;none;none;none
+2.0;9;3;3;1;2;47;2;1;4;0;44;6;67;30;none;none;none;none;none;none
+2.0;1;12;3;0;2;170;0;1;6;0;29;2;200;69;none;none;none;none;none;none
+0.0;2;3;8;2;1;121;0;1;9;0;27;0;113;33;none;none;none;none;none;none
+0.0;2;2;7;0;1;37;0;1;7;0;27;1;100;0;none;none;none;none;none;none
+0.0;6;1;7;3;2;73;3;1;8;0;43;5;71;44;none;none;none;none;none;none
+0.0;5;2;8;3;1;49;1;1;6;2;26;2;63;71;none;none;none;none;none;none
+0.0;1;2;2;1;1;27;1;1;2;0;17;0;50;33;none;none;none;none;none;none
+0.0;3;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+1.0;15;13;9;1;1;158;3;1;9;0;50;5;67;74;none;none;none;none;none;Shotgun Surgery
+6.0;26;10;1;0;2;223;0;1;4;0;92;12;400;60;none;none;none;Large Class;none;Shotgun Surgery
+1.0;11;3;11;2;1;174;1;3;9;6;53;4;73;68;none;none;none;none;none;none
+3.0;12;3;2;0;1;57;0;1;3;0;31;6;150;50;none;none;none;none;none;none
+1.0;4;2;5;1;1;26;0;1;2;5;18;3;40;33;none;none;none;none;none;none
+5.0;55;9;19;2;5;867;2;22;22;0;658;18;105;88;none;none;none;Large Class;none;none
+1.0;15;9;1;0;1;42;0;1;1;0;30;10;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;8;0;1;1;0;14;0;100;0;none;none;none;none;none;none
+0.0;2;1;1;0;1;8;0;1;1;0;14;0;100;0;none;none;none;none;none;none
+0.0;7;2;1;0;2;20;0;1;1;0;39;4;100;0;none;none;none;none;none;none
+1.0;13;1;1;0;2;20;0;1;1;0;39;7;100;0;none;none;none;none;none;none
+0.0;6;1;1;0;2;14;0;1;1;0;33;4;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;2;14;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+2.0;13;8;1;0;5;68;0;1;1;0;601;8;100;0;none;none;none;none;none;none
+1.0;5;2;1;0;2;32;0;1;1;0;25;4;100;0;none;none;none;none;none;none
+1.0;27;6;1;0;2;71;0;1;2;0;59;11;200;50;none;none;none;none;none;none
+1.0;12;2;1;0;2;21;0;1;1;0;40;8;100;0;none;none;none;none;none;none
+1.0;5;1;1;0;2;17;0;1;1;0;36;3;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;2;12;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;2;12;0;1;1;0;31;2;100;0;none;none;none;none;none;none
+2.0;10;4;0;0;7;73;0;2;2;0;539;6;2;33;none;none;none;none;none;none
+0.0;2;2;1;0;1;16;0;1;1;0;15;1;100;0;none;none;none;none;none;none
+1.0;11;2;1;0;2;20;0;1;1;0;38;4;100;0;none;none;none;none;none;none
+0.0;2;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+2.0;4;4;1;1;1;20;0;1;1;0;19;2;100;0;none;none;none;none;none;none
+0.0;11;4;1;0;2;41;0;1;1;0;47;7;100;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;8;0;1;1;0;13;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+3.0;4;20;3;0;2;182;0;1;4;0;38;2;133;61;none;none;none;none;none;Shotgun Surgery
+7.0;45;22;33;8;1;906;0;1;44;0;168;26;133;86;none;none;none;Large Class;none;Shotgun Surgery
+5.0;39;10;4;1;5;350;1;5;8;0;552;18;175;75;none;none;none;none;none;none
+0.0;9;7;1;0;1;36;0;1;1;0;24;7;100;0;none;none;none;none;none;none
+0.0;8;5;3;0;1;48;0;1;3;0;25;7;100;0;none;none;none;none;none;none
+0.0;3;1;1;0;2;8;0;1;1;0;18;2;100;0;none;none;none;none;none;none
+1.0;6;4;1;0;2;25;0;1;1;0;25;4;100;0;none;none;none;none;none;none
+9.0;62;12;11;4;7;901;0;6;19;0;612;23;173;80;none;none;none;Large Class;none;Shotgun Surgery
+1.0;13;12;1;0;1;59;0;1;1;0;28;11;100;0;none;none;none;none;none;none
+0.0;5;4;7;1;2;60;0;1;7;0;31;0;100;0;none;none;none;none;none;none
+1.0;13;4;1;0;1;39;0;1;2;0;26;10;200;0;none;none;none;none;none;none
+0.0;5;2;1;0;1;11;0;1;1;0;16;3;100;0;none;none;none;none;none;none
+0.0;4;3;1;0;1;15;0;1;1;0;17;3;100;0;none;none;none;none;none;none
+0.0;1;1;7;2;0;10;0;1;7;0;7;0;100;0;none;none;none;none;none;none
+1.0;2;5;2;4;1;64;0;2;5;0;20;1;250;73;none;none;none;none;none;none
+0.0;0;1;4;6;1;11;0;1;1;3;12;0;25;33;none;none;none;none;none;none
+5.0;23;7;5;7;2;542;0;4;21;0;90;8;420;86;none;none;none;Large Class;none;none
+0.0;5;3;3;1;1;69;0;1;5;0;24;1;167;50;none;none;none;none;none;none
+0.0;3;1;0;0;4;14;0;1;1;0;87;0;1;0;none;none;none;none;none;none
+0.0;2;1;6;1;1;35;1;1;3;3;20;0;33;16;none;none;none;none;none;none
+2.0;4;3;5;7;1;55;2;1;8;0;23;1;120;70;none;none;none;none;none;none
+4.0;9;9;3;2;2;469;1;3;13;0;68;2;400;80;none;none;none;none;none;none
+1.0;1;9;10;1;2;151;0;1;15;0;55;2;150;29;none;none;none;none;none;none
+2.0;4;3;4;1;1;44;0;1;4;0;19;0;100;56;none;none;none;none;none;none
+0.0;2;1;3;1;1;9;0;1;2;0;15;0;67;100;none;none;none;none;none;none
+3.0;6;5;8;4;1;124;1;2;10;0;36;3;113;66;none;none;none;none;none;none
+0.0;0;1;3;1;1;12;0;1;0;3;11;0;0;0;none;none;none;none;none;none
+2.0;39;17;11;10;1;266;0;1;11;1;94;17;100;72;none;Feature Envy;none;none;none;none
+2.0;7;6;43;3;1;283;0;1;13;13;46;5;30;79;none;none;Long Methodt;none;none;none
+2.0;10;7;29;7;1;242;12;1;29;0;60;3;59;91;none;none;none;none;none;none
+0.0;2;1;3;11;1;24;3;1;3;0;14;0;0;50;none;Feature Envy;none;none;none;none
+1.0;1;5;1;2;1;24;0;1;1;0;13;1;100;0;none;none;none;none;none;none
+0.0;2;2;31;20;1;93;0;1;4;5;17;2;13;86;none;Feature Envy;none;none;none;none
+0.0;2;1;2;1;0;6;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+4.0;17;21;5;4;1;731;1;2;15;0;94;8;280;72;none;none;none;none;none;Shotgun Surgery
+1.0;7;6;11;4;1;99;0;1;6;6;25;2;55;57;none;none;none;none;none;none
+4.0;17;35;8;1;2;598;2;2;15;0;126;9;163;81;none;none;Long Methodt;none;none;Shotgun Surgery
+4.0;8;19;28;1;1;209;0;1;1;27;31;6;4;42;none;none;none;none;none;none
+0.0;2;2;1;0;1;94;0;1;20;0;32;1;2000;88;none;Feature Envy;none;none;none;none
+1.0;1;4;15;3;1;66;1;1;6;0;18;0;33;86;none;none;none;none;none;none
+5.0;13;11;8;0;1;285;0;1;11;0;83;10;138;57;none;none;none;none;none;none
+7.0;14;20;1;2;1;509;0;2;27;0;68;8;2700;76;none;none;none;Large Class;none;Shotgun Surgery
+0.0;2;1;1;0;1;18;0;1;1;0;12;0;100;37;none;none;none;none;none;none
+0.0;2;1;0;0;2;8;0;1;1;0;20;1;1;0;none;none;none;none;none;none
+3.0;3;8;20;4;3;302;4;1;22;0;80;3;90;81;none;none;none;none;none;none
+0.0;0;1;7;3;1;41;4;1;7;0;18;0;43;59;none;none;none;none;none;none
+4.0;22;17;17;11;1;621;1;2;34;0;113;7;194;80;none;none;none;none;none;Shotgun Surgery
+0.0;0;1;2;1;1;16;1;1;2;0;13;0;50;0;none;none;none;none;none;none
+4.0;9;32;5;0;2;397;0;1;6;0;66;5;120;46;none;none;none;none;none;Shotgun Surgery
+4.0;9;6;1;0;1;57;0;1;2;0;35;7;200;0;none;none;none;none;none;none
+4.0;10;3;0;0;1;116;0;2;6;0;32;4;6;16;none;none;none;none;none;none
+0.0;1;1;0;0;1;10;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+4.0;6;10;3;0;2;392;0;1;15;0;57;5;500;87;none;none;none;none;none;none
+0.0;3;1;3;1;0;10;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+11.0;32;22;47;6;4;762;10;2;47;0;584;8;79;94;none;none;none;Large Class;none;Shotgun Surgery
+4.0;18;22;5;0;3;232;0;1;6;0;85;12;120;66;none;none;none;none;none;none
+0.0;0;1;1;1;0;3;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+4.0;19;7;10;0;2;195;0;1;11;0;94;9;110;60;none;none;none;none;none;none
+1.0;6;1;0;0;6;12;0;1;0;0;700;3;0;0;Refused Bequest;none;none;none;none;none
+2.0;30;5;23;8;6;293;1;1;21;0;757;14;87;82;none;Feature Envy;none;none;none;none
+0.0;4;2;1;0;1;25;0;1;1;0;15;1;100;0;none;none;none;none;none;none
+0.0;1;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+3.0;18;9;2;0;4;122;0;1;2;0;85;11;100;0;none;none;none;none;none;none
+0.0;1;1;3;1;0;6;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+2.0;2;11;0;0;1;347;0;1;15;0;36;3;15;29;none;none;none;none;none;none
+0.0;1;4;2;1;1;79;0;1;8;0;22;1;400;38;none;none;none;none;none;none
+2.0;6;19;14;1;1;275;0;1;12;0;37;3;86;74;none;none;none;none;Data Class;Shotgun Surgery
+2.0;5;5;2;0;2;87;0;1;6;0;44;3;300;0;none;none;none;none;none;none
+0.0;1;1;2;1;0;5;0;1;2;0;2;0;100;0;none;none;none;none;none;none
+0.0;1;16;9;11;1;502;4;3;13;0;55;1;100;65;none;Feature Envy;none;none;none;Shotgun Surgery
+0.0;1;6;2;0;2;101;0;1;6;0;38;0;300;0;none;none;none;none;none;none
+2.0;5;16;4;6;2;330;0;1;9;0;59;4;225;71;none;none;none;none;none;none
+4.0;13;16;1;1;1;268;0;1;13;0;65;8;1300;42;none;none;none;none;Data Class;Shotgun Surgery
+0.0;4;4;3;0;1;44;0;1;4;0;23;1;133;0;none;none;none;none;none;none
+0.0;2;1;0;0;2;8;0;1;1;0;20;1;1;0;none;none;none;none;none;none
+8.0;44;4;4;0;6;397;0;2;16;0;808;14;400;76;none;none;none;none;none;none
+0.0;5;1;1;0;2;35;0;1;4;0;34;0;400;60;none;none;none;none;none;none
+0.0;1;1;6;2;0;9;0;1;3;0;3;0;50;0;none;none;none;none;none;none
+0.0;2;5;2;2;0;150;0;4;2;0;29;0;100;0;none;none;none;none;none;none
+0.0;3;3;2;0;1;32;0;1;2;0;23;1;100;0;none;none;none;none;none;none
+2.0;6;5;1;0;2;91;0;1;3;0;34;2;300;0;none;none;none;none;none;none
+0.0;1;1;5;3;1;22;0;1;0;5;11;0;0;66;none;none;none;none;none;none
+20.0;95;30;231;55;5;4305;23;10;267;0;987;28;106;96;none;none;none;none;none;Shotgun Surgery
+0.0;3;3;1;0;1;13;0;1;1;0;17;2;100;0;none;none;none;none;none;none
+0.0;3;2;1;0;1;9;0;1;1;0;15;2;100;0;none;none;none;none;none;none
+1.0;4;4;2;0;1;34;0;1;2;0;18;2;100;0;none;none;none;none;none;none
+2.0;5;2;3;1;1;128;0;2;3;0;27;1;100;0;none;none;none;none;none;none
+1.0;0;2;10;1;1;92;1;1;10;0;34;0;90;27;none;none;none;none;none;none
+1.0;4;13;1;0;1;71;0;1;1;0;28;3;100;0;none;none;none;none;none;none
+0.0;1;1;2;0;3;17;0;1;2;0;19;1;100;0;none;none;none;none;none;none
+0.0;0;1;0;0;1;12;0;1;0;0;11;0;0;0;none;none;none;none;none;none
+2.0;4;2;2;0;3;21;0;1;3;0;59;3;150;0;none;none;none;none;none;none
+0.0;5;1;2;0;2;21;0;1;2;0;32;1;100;0;none;none;none;none;none;none
+4.0;11;3;4;0;2;50;0;1;4;0;35;3;100;40;none;none;none;none;none;none
+0.0;0;1;0;0;3;7;0;1;0;0;24;0;0;0;none;none;none;none;none;none
+0.0;1;3;4;1;1;28;0;1;4;0;15;0;100;0;none;none;none;none;none;none
+5.0;16;13;7;3;3;463;0;1;16;0;114;12;229;69;none;none;none;none;none;Shotgun Surgery
+8.0;34;14;77;15;4;844;24;7;67;0;616;7;56;96;none;none;none;none;none;Shotgun Surgery
+2.0;5;7;1;0;2;39;0;1;1;0;29;4;100;0;none;none;none;none;none;none
+2.0;15;9;1;0;2;70;0;1;2;0;42;13;200;0;none;none;none;none;none;none
+1.0;7;4;1;0;2;32;0;1;2;0;28;5;200;0;none;none;none;none;none;none
+2.0;16;14;1;0;2;109;0;1;3;0;52;11;300;33;none;none;none;none;none;none
+3.0;15;9;1;0;2;78;0;1;1;0;41;11;100;0;none;none;none;none;none;none
+1.0;5;3;2;0;2;36;0;1;2;0;26;6;100;0;none;none;none;none;none;none
+4.0;28;12;4;0;2;364;0;3;10;0;94;14;250;74;none;none;none;none;none;none
+0.0;4;1;1;0;3;16;0;1;1;0;33;2;100;0;none;none;none;none;none;none
+0.0;2;1;0;0;2;9;0;1;0;0;20;1;0;0;none;none;none;none;none;none
+0.0;4;2;3;0;1;38;0;1;3;0;20;1;100;0;none;none;none;none;none;none
+0.0;3;1;3;2;0;6;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+0.0;3;1;3;0;1;12;0;1;3;0;17;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;0;2;8;0;1;1;0;19;0;100;0;none;none;none;none;none;none
+0.0;5;4;1;0;6;36;0;1;3;0;532;1;300;0;Refused Bequest;none;none;none;none;none
+2.0;24;8;18;53;1;228;0;1;18;0;76;16;100;0;none;none;none;none;none;none
+0.0;5;5;4;1;1;95;0;1;5;0;40;2;125;0;none;none;none;none;none;none
+1.0;14;5;9;30;1;145;0;1;9;0;43;5;100;0;none;Feature Envy;none;none;none;none
+0.0;0;2;6;4;1;43;2;1;6;0;18;1;67;50;none;none;none;none;none;none
+1.0;13;7;16;141;1;385;0;4;13;1;76;7;81;84;none;Feature Envy;none;none;none;none
+2.0;7;4;4;0;1;77;0;1;7;0;31;2;175;28;none;none;none;none;none;none
+0.0;1;1;2;1;2;20;0;1;2;0;23;1;100;33;none;none;none;none;none;none
+1.0;3;1;1;0;4;33;0;1;1;0;65;0;100;0;none;none;none;none;none;none
+0.0;0;1;3;3;0;6;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+8.0;11;12;3;0;1;168;0;1;6;0;53;16;200;56;none;none;none;none;none;none
+0.0;0;2;5;1;1;36;1;1;5;0;25;0;80;0;none;none;none;none;none;none
+2.0;2;2;1;0;1;91;0;1;2;0;16;2;200;_;none;none;none;none;none;none
+0.0;0;3;2;1;2;30;0;1;3;0;47;1;150;0;none;none;none;none;none;none
+1.0;1;1;4;0;1;32;1;1;4;0;22;0;75;44;none;none;none;none;none;none
+2.0;8;16;23;43;1;490;0;2;21;0;61;8;91;95;none;Feature Envy;none;none;none;Shotgun Surgery
+0.0;1;1;1;0;1;17;0;1;1;0;31;1;100;33;none;none;none;none;none;none
+1.0;1;4;8;4;4;68;0;1;8;0;137;2;100;100;Refused Bequest;none;none;none;none;none
+1.0;3;2;3;1;1;28;1;1;5;0;21;1;133;50;none;none;none;none;none;none
+5.0;9;17;7;13;1;135;0;1;6;1;40;4;86;85;none;none;none;none;none;none
+3.0;3;2;15;19;1;93;6;1;15;0;38;2;60;80;none;Feature Envy;none;none;none;none
+0.0;1;1;6;0;1;27;0;1;6;0;23;0;100;0;none;none;none;none;none;none
+0.0;1;1;6;1;0;9;0;1;6;0;6;0;100;0;none;none;none;none;none;none
+1.0;9;3;8;17;1;166;0;3;14;0;43;4;175;68;none;Feature Envy;none;none;none;none
+0.0;0;1;3;0;2;21;0;1;3;0;33;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;1;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;0;1;1;0;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+3.0;9;4;5;24;1;129;0;3;5;0;40;9;100;83;none;none;none;none;none;none
+0.0;1;1;1;0;1;15;0;1;1;0;15;0;100;25;none;none;none;none;none;none
+0.0;1;1;1;0;1;17;0;1;1;0;18;0;100;0;none;none;none;none;none;none
+1.0;16;5;3;19;1;94;0;1;3;0;36;5;100;0;none;Feature Envy;none;none;none;none
+0.0;3;4;2;0;1;16;0;1;2;0;17;2;100;0;none;none;none;none;none;none
+0.0;0;1;1;2;0;4;0;1;1;0;1;0;100;0;none;none;none;none;none;none
+0.0;12;14;3;0;1;334;0;2;5;0;46;2;167;90;none;none;none;none;none;Shotgun Surgery
+1.0;9;14;5;1;3;230;0;1;6;0;54;3;120;68;none;none;none;none;none;none
+0.0;16;9;24;0;1;275;0;1;24;0;83;14;100;70;none;none;none;none;none;none
+0.0;0;1;3;9;0;6;0;1;3;0;3;0;100;0;none;none;none;none;none;none
+0.0;1;1;1;0;1;8;0;1;1;0;16;1;100;0;none;none;none;none;none;none
+1.0;15;4;6;0;1;102;1;1;8;0;42;6;117;61;none;none;none;none;none;none
+0.0;2;1;8;10;0;19;0;1;7;0;7;0;88;0;none;Feature Envy;none;none;none;none
+3.0;24;4;7;0;1;159;1;1;12;0;60;7;157;82;none;none;none;none;none;none
+1.0;2;2;1;0;2;9;0;1;1;0;17;1;100;0;Refused Bequest;none;none;none;none;none
+1.0;8;5;1;0;1;31;0;1;1;0;30;6;100;0;none;none;none;none;none;none
+1.0;3;3;2;1;1;27;0;1;2;0;19;3;100;33;none;none;none;none;none;none
+1.0;7;2;2;0;8;31;0;1;2;0;474;2;100;83;none;none;none;none;none;none
+0.0;1;5;0;0;2;49;0;1;1;0;25;1;1;33;Refused Bequest;none;none;none;none;none
+5.0;27;15;2;1;6;259;0;1;9;0;546;9;450;75;none;none;none;Large Class;none;Shotgun Surgery
+0.0;6;4;8;5;1;139;0;1;12;0;44;1;150;67;none;none;none;none;none;none
+0.0;5;6;1;0;2;43;0;2;1;0;29;2;100;0;Refused Bequest;none;none;none;none;none
+0.0;0;1;0;0;6;7;0;1;0;0;472;0;0;0;none;none;none;none;none;none
+3.0;25;4;8;1;7;121;0;2;9;0;504;8;113;75;none;none;none;none;none;none
+0.0;3;1;1;0;1;7;0;1;1;0;15;2;100;0;none;none;none;none;none;none
+0.0;11;5;112;0;1;1421;0;2;116;0;156;2;104;80;none;none;none;none;none;none
+0.0;1;5;1;0;4;29;0;1;1;0;46;0;100;0;none;none;none;none;none;none
